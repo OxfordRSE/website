@@ -1,0 +1,46 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Oxford RSE"
+theme = "natrium"
+preserveTaxonomyNames = true
+rssLimit = 10
+paginate = 10
+pygmentsCodefences = true
+pygmentsStyle = "native"
+
+[taxonomies]
+    category = "categories"  
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = -110
+
+[[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = -140
+    
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = -120
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    weight = -130
+
+[params]
+    description = ""
+
+    [params.logo]
+    url = "CompSci_logo_landscapeL_rgb_corrected.jpg"
+    width = 2000
+    height = 2000
+    alt = "Department of Computer Science"
