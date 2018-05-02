@@ -1,10 +1,8 @@
 ---
 title: "People"
 date: 2018-05-02T16:25:22+01:00
-draft: true
+draft: false
 ---
-
-# People
 
 ## [David Gavaghan](/people/David.Gavaghan/)
 
@@ -47,7 +45,7 @@ He is the Principal Investigator of the RSE Network.
 
 
 ## [Martin Robinson](/people/martin.robinson/)
-![Personal photo - Martin Robinson](photo_martin_robinson.jpg "Martin 
+![Personal photo - Martin Robinson](photo_martin_robinson.jpg "Martin
 Robinson")\
 
 Martin Robinson is a Postdoctoral Researcher in the [Computational Biology
@@ -73,4 +71,3 @@ Fergus's research focusses on the development of computational tools which he ap
 Through the development of computational modelling tools he has become interested in, and an advocate for, software best practices within academia.
 
 Fergus is a leading developer on the [Chaste project](http://www.cs.ox.ac.uk/chaste/), and has a particular interest in the C++ programming language.
-

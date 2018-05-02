@@ -1,7 +1,7 @@
 ---
 title: "Oxford RSE"
 date: 2018-05-02T16:20:41+01:00
-draft: true
+draft: false
 ---
 
 # Research Software Engineering at the University of Oxford

@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
+baseurl = "http://www.cs.ox.ac.uk/projects/RSE/"
+languageCode = "en-gb"
 title = "Oxford RSE"
 theme = "natrium"
 preserveTaxonomyNames = true
@@ -9,7 +9,7 @@ pygmentsCodefences = true
 pygmentsStyle = "native"
 
 [taxonomies]
-    category = "categories"  
+    category = "categories"
     tag = "tags"
 
 [permalinks]
@@ -25,7 +25,7 @@ pygmentsStyle = "native"
     name = "People"
     url = "/people/"
     weight = -140
-    
+
 [[menu.main]]
     name = "Tags"
     url = "/tags"
@@ -40,7 +40,7 @@ pygmentsStyle = "native"
     description = ""
 
     [params.logo]
-    url = "CompSci_logo_landscapeL_rgb_corrected.jpg"
-    width = 2000
-    height = 2000
-    alt = "Department of Computer Science"
+    url = "rse_logo_small.svg"
+    width = 400
+    height = 400
+    alt = "Oxford Research Software Engineering"
