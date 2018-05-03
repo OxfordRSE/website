@@ -14,4 +14,9 @@ when they are needed: for any period from a few days to a few years.
 You can find more information about us and our project aims in the [About]({{<
 ref "about.md" >}}) page.
 
+For more information about the research software community within the UK,
+please see either the [Software Sustainability
+Institute](https://www.software.ac.uk) or the [UK Research Software Engineers
+Association](http://rse.ac.uk).
+
 If you have any questions, please do get in touch at <rse@cs.ox.ac.uk>
