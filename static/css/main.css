@@ -65,7 +65,6 @@ img {
 
   display: block;
   margin: 0 auto;
-  max-width: 40%;
   height: auto;
 }
 
@@ -196,6 +195,10 @@ blockquote {
 
 .section-divider {
   clear: both;
+}
+
+.section-divider img {
+  max-width: 40%;
 }
 
 .article-taxonomy {
