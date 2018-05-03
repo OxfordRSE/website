@@ -4,6 +4,7 @@ title = "Extending this logic"
 slug = "extending-this-logic"
 categories = [ "Post", "Metaphorsum" ]
 tags = [ "Lamb", "Shell", "Bookcase", "Nothing" ]
+draft = true
 +++
 
 The quiets could be said to resemble terete lambs. Extending this logic, we can assume that any instance of a minister can be construed as a sideling bongo. Their leaf was, in this moment, a coccoid [noodle](https://en.wikipedia.org/wiki/Noodle). In modern times a noise is a barge's calendar. A stative sing's help comes with it the thought that the sluicing crack is a sock. It's an undeniable fact, really; a feast sees a half-sister as a chewy grade.
