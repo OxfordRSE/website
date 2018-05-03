@@ -52,9 +52,10 @@ Martin Robinson is a Postdoctoral Researcher in the [Computational Biology
 group](https://www.cs.ox.ac.uk/activities/compbio/) within the [Department of
 Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
 
-He is interested in particle-based numerical methods, Bayesian inference and
-developing robust and reliable research software. Through this work he has
-authored or contributed to a number of research software projects, including
+He is interested in modelling and simulation, particle-based methods, Bayesian 
+inference and developing robust and reliable research software. Through this 
+work he has authored or contributed to a number of research software projects, 
+including
 [Aboria](https://github.com/martinjrobins/Aboria),
 [Chaste](http://www.cs.ox.ac.uk/chaste/),
 [PINTS](https://github.com/pints-team/pints),
