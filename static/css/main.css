@@ -186,6 +186,10 @@ blockquote {
   background: #e8e8e8;
 }
 
+.section-divider {
+  clear: both;
+}
+
 .article-taxonomy {
   list-style: none;
   padding-left: 0;
