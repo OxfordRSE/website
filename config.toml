@@ -27,16 +27,6 @@ googleAnalytics = "UA-48149829-6"
     url = "/people/"
     weight = -140
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = -120
-
-[[menu.main]]
-    name = "Categories"
-    url = "/categories"
-    weight = -130
-
 [params]
     description = ""
 
