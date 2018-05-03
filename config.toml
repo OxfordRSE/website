@@ -32,6 +32,4 @@ googleAnalytics = "UA-48149829-6"
 
     [params.logo]
     url = "rse_logo_small.svg"
-    width = 400
-    height = 400
     alt = "Oxford Research Software Engineering"
