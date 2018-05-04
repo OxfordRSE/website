@@ -3,6 +3,7 @@ title: "C++ template project"
 date: 2018-05-04T10:32:55+01:00
 draft: false
 syntax_highlighting: true
+mathjax: true
 ---
 
 We are putting together a [template C++ project](https://github.com/OxfordRSE/template-project-cpp).
@@ -22,5 +23,8 @@ class Foo:
 	def run(self):
 		RunForrestRun()  # run along!
 ```
+
+Some maths:
+$$\alpha\frac{\Gamma(x)}{0!}$$
 
 More info coming soon!
