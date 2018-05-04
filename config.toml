@@ -8,6 +8,7 @@ paginate = 10
 pygmentsCodefences = true
 pygmentsStyle = "native"
 googleAnalytics = "UA-48149829-6"
+enableGitInfo = true
 
 [taxonomies]
     category = "categories"
