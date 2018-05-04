@@ -148,10 +148,10 @@ blockquote {
   display: block;
   /*min-height: calc(100vh - 60px);*/
   max-width: 800px;
-  margin: 60px auto 80px;
+  margin: 60px auto;
   padding: 0 15px;
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.8;
   color: #555;
 }
 
@@ -473,12 +473,6 @@ blockquote {
   pre,
   code {
     font-size: 17px;
-  }
-
-  .content {
-    font-size: 18px;
-    line-height: 1.8;
-    margin: 100px auto;
   }
 
   .article-title {
