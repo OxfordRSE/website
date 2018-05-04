@@ -19,4 +19,6 @@ please see either the [Software Sustainability
 Institute](https://www.software.ac.uk) or the [UK Research Software Engineers
 Association](http://rse.ac.uk).
 
-If you have any questions, please do get in touch at <rse@cs.ox.ac.uk>
+Check out our [posts](/projects/RSE/posts/) for our latest news and tech blog.
+
+If you have any questions, please do get in touch at <rse@cs.ox.ac.uk>.

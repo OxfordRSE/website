@@ -25,7 +25,12 @@ googleAnalytics = "UA-48149829-6"
 [[menu.main]]
     name = "People"
     url = "/people/"
-    weight = -140
+    weight = -130
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = -120
 
 [params]
     description = ""
