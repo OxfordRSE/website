@@ -5,8 +5,9 @@ theme = "natrium"
 preserveTaxonomyNames = true
 rssLimit = 10
 paginate = 10
+pygmentsUseClasses=true
 pygmentsCodefences = true
-pygmentsStyle = "native"
+pygmentsStyle = "default"
 googleAnalytics = "UA-48149829-6"
 enableGitInfo = true
 

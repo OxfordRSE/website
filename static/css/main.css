@@ -25,13 +25,12 @@ h6 {
 pre,
 code {
   font-family: 'Roboto Mono', monospace;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 code {
   border-radius: 3px;
   padding: 1px 3px;
-  background: #f0f0f0;
   -webkit-hyphens: none;
   hyphens: none;
 }
@@ -40,8 +39,6 @@ pre {
   overflow-x: auto;
   padding: 8px 12px;
   border-radius: 3px;
-  background: #202020;
-  color: #d0d0d0;
 }
 
 pre code {
@@ -466,14 +463,6 @@ blockquote {
 }
 
 @media (min-width: 600px) {
-  code {
-    padding: 2px 4px;
-  }
-
-  pre,
-  code {
-    font-size: 17px;
-  }
 
   .article-title {
     font-size: 42px;
