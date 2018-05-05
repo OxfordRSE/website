@@ -11,6 +11,11 @@
       <span class="article-date">{{ .Date.Format "2006-01-02" }}</span>
     {{ end }}
 
+    {{ if .Page.Params.include_toc }}
+    {{ partial "toc.html" . }}
+    {{ end }}
+
+
     <div class="article-content">
       {{ .Content }}
     </div>
@@ -33,6 +38,8 @@
       </li>
       {{ end }}
   </article>
+
+  {{ partial "back-to-top.html" . }}
 
 </main>
 
