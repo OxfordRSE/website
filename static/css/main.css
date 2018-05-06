@@ -224,13 +224,16 @@ blockquote {
   right: 5vw;
   line-height: 1.4;
 }
-.back-to-top a {
+
+.back-to-top a, a:visited, a:active {
   text-decoration: none;
-  border: none;
+  color: #555;
 }
 
 .back-to-top a:hover {
-    color: #222;
+  text-decoration: none;
+  border: none;
+  color: #222;
 }
 
 .toc ul {
