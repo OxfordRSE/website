@@ -7,11 +7,12 @@ mathjax: true
 include_toc: true
 ---
 
-## Introduction
+This post is very much in a draft stage - stay tuned for a more thorough version.
 
-## Why Hugo?
+## What is Hugo?
 
 Hugo is a static website generator.
+That mean that, instead of wasting time writing cumbersome HTML from scratch, you can author content in markdown files and Hugo turns that information into a website for you.
 
 ## Easy integrations
 
@@ -58,9 +59,39 @@ int main()
 }
 {{< /highlight >}}
 
-
-
 ### Typesetting maths
+
+Hugo sites work well with [MathJax](https://www.mathjax.org/), a javascript tool for turning TeX-like input into typeset mathematics in HTML for viewing in a web browser.
+
+MathJax is available via CDNJS, so all that's required in Hugo is to add something similar to the following to each page on your site that contains mathematical content:
+
+{{< highlight html >}}
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML">
+</script>
+{{< /highlight >}}
+
+You could, for instance, add this to your `head.html` partial template so that it appears on every page.
+Everything is then up and running immediately.
+The `config=TeX-AMS_HTML` part tells the renderer how to expect input and how to present the output, and can be changed dependning on your needs.
+This particular configuration is a good deafult if the mathematical content is provided entirely in a TeX style, and if you want to render the equations as HTML (rather than, say, as an image).
+Full documentation can be found [here](http://docs.mathjax.org/en/latest/config-files.html#combined-configurations), as many other configurations are possible.
+
+Let's have a look at an example.
+If you wanted to display the time-dependent [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation), you could put it between two sets of `$$`:
+
+{{< highlight tex >}}
+$$
+i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
+$$
+{{< /highlight >}}
+
+which, hopefully, will display as:
+
+$$
+i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
+$$
+
+That's all there is to it.
 
 ### Tables of contents
 
