@@ -3,7 +3,7 @@ title: "About"
 date: "2018-02-09"
 ---
 
-# Research Software Engineering at the University of Oxford
+# The Research Software Engineering Survey Project
 
 ## Background
 
