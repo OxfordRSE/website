@@ -1,7 +1,7 @@
 ---
 title: "Survey results"
-date: 2018-12-03
-draft: true
+date: 2018-12-06
+draft: false
 ---
 
 In April 2018 we launched a [short survey](/projects/RSE/rse_post/survey_launched/) to assess the need for Research Software Engineering expertise within the University of Oxford.
