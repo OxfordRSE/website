@@ -220,7 +220,11 @@ blockquote {
 }
 
 .section-divider img {
-  max-width: 40%;
+  max-width: 80%;
+  width: 192px;
+  float: left;
+  padding-right: 12px;
+  padding-top: 8px;
 }
 
 .toc {

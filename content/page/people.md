@@ -76,10 +76,10 @@ including
 ## [Fergus Cooper](http://www.dtc.ox.ac.uk/people/13/cooperf/)
 ![Personal photo - Fergus Cooper](photo_fergus_cooper.jpg "Fergus Cooper")\
 
-Fergus Cooper is a DPhil student in the [Wolfson Centre for Mathematical Biology](https://www.maths.ox.ac.uk/groups/mathematical-biology).
+Fergus Cooper did his DPhil in the [Wolfson Centre for Mathematical Biology](https://www.maths.ox.ac.uk/groups/mathematical-biology).
 
 Fergus's research focusses on the development of computational tools which he applies to the understanding of biological processes in epithelial development.
 Through the development of computational modelling tools he has become interested in, and an advocate for, software best practices within academia.
 
-Fergus is a leading developer on the [Chaste project](http://www.cs.ox.ac.uk/chaste/), and has a particular interest in the C++ programming language.
+Fergus is a leading developer on the [Chaste project](http://www.cs.ox.ac.uk/chaste/), contributes to a number of other projects including [Trase](https://github.com/trase-cpp/trase), and has a particular interest in the C++ programming language.
 {{% /section-div %}}
