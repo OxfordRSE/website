@@ -9,6 +9,6 @@ USER=$1
 HOST=linux2.cs.ox.ac.uk
 DIR=/fs/website/projects/RSE/
 
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+hugo && rsync -avz --no-owner --no-perms --delete public/ ${USER}@${HOST}:${DIR}
 
 exit 0
