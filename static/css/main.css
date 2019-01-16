@@ -46,7 +46,7 @@ pre code {
   background: transparent;
 }
 
-.article-content figure {
+article .article-content figure {
   border-bottom: solid medium #e6e6e6;
 }
 
@@ -188,7 +188,6 @@ blockquote {
 
 .article-content img {
   float: none;
-  width: 90%;
   max-width: 90%;
   padding: 0;
   margin: auto;
