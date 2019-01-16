@@ -3,9 +3,7 @@ title: "About"
 date: "2018-02-09"
 ---
 
-# The Research Software Engineering Survey Project
-
-## Background
+# Background
 
 Over the last three decades research in academia and industry has become
 increasingly reliant on software. A recent survey of RCUK-funded research being
@@ -31,11 +29,11 @@ which has expanded to ten permanent staff, including two who were recruited
 from Oxford.
 
 
-## Project Aims
+# Original RSE survey project
 
-We will explore the need for research software engineering (RSE) support in
+We explored the need for research software engineering (RSE) support in
 both the academic research and the knowledge transfer spaces within Oxford. Our
-aims are to:
+aims were to:
 
 1. Identify researchers within the University with a need for RSE support.
 1. Assess the extent to which the lack of RSE support is a barrier to both
@@ -49,11 +47,8 @@ aims are to:
    case studies and as a direct evidence base in developing future business and
    funding models.
 1. To explore possible business and funding models (based on current practice in other universities) with the goal of filling the software engineering support gap in Oxford.
-1. Development of a business case to support the development of an RSE group
+1. To develop a business case to support the development of an RSE group
    within Oxford.
 
+This initial project was successful and has led to the creation of this Research Software Engineering group.
 
-## Ethics Approval
-
-This project has received research ethics approval by the Computer Science
-Departmental Research Ethics Committee (Ref No: SSD/CUREC1A CS_C1A_18_003).
