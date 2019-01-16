@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2019-01-11T17:14:39Z
-draft: true
+draft: false
 ---
 
 If you are interested in collaborating with us on your project, please fill in [this short form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3).
