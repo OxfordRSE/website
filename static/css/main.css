@@ -218,6 +218,26 @@ blockquote {
   clear: both;
 }
 
+.obvious-link {
+  padding: 8px;
+  border-radius: 10px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 32px;
+  background-color: #002147;
+}
+
+.article-content .obvious-link a, a:visited a:active a:link {
+  color: #ccc;
+  border-bottom: medium solid #ccc;
+}
+
+.article-content .obvious-link a:hover {
+  color: white;
+  border-bottom: medium solid white;
+}
+
 .section-divider img {
   max-width: 80%;
   width: 192px;
