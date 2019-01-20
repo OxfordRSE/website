@@ -4,7 +4,7 @@ date: 2019-01-11T17:19:10Z
 draft: false
 ---
 
-# 2x Research Software Engineer
+# [2x Research Software Engineer](http://www.cs.ox.ac.uk/news/1616-full.html)
 * Full-time, flexible options considered (e.g. part-time, job share)
 * Fixed-term for up to 12 months
 * Grade 7: £32,236 - £39,609 p.a.
