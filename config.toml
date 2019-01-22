@@ -47,5 +47,5 @@ enableGitInfo = true
     description = ""
 
     [params.logo]
-    url = "rse_logo_small.svg"
+    url = "banner_ox_rse.svg"
     alt = "Oxford Research Software Engineering"
