@@ -97,7 +97,7 @@ blockquote {
 .header {
   padding: 15px 0;
   position: relative;
-  background: #f5f5f5;
+  background: #002147;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -151,11 +151,11 @@ blockquote {
 
 .nav-links a {
   text-decoration: none;
-  color: #444;
+  color: #fff;
 }
 
 .nav-links a:hover {
- color: #111;
+ color: #ccc;
 }
 
 .content {
@@ -229,13 +229,13 @@ blockquote {
 }
 
 .article-content .obvious-link a, a:visited a:active a:link {
-  color: #ccc;
-  border-bottom: medium solid #ccc;
+  color: #fff;
+  border-bottom: none;
 }
 
 .article-content .obvious-link a:hover {
-  color: white;
-  border-bottom: medium solid white;
+  color: #ccc;
+  border-bottom: none;
 }
 
 .section-divider img {
