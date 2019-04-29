@@ -1,4 +1,4 @@
-baseurl = "http://www.cs.ox.ac.uk/projects/RSE/"
+baseurl = "https://www.cs.ox.ac.uk/projects/RSE/"
 languageCode = "en-gb"
 title = "Oxford RSE"
 theme = "natrium"
