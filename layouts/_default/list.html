@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+<main>
+  <div>
+   <h1>{{ .Title }}</h1>
+        <ul>
+            {{ range .Pages }}
+                <li>
+                    <a href="{{.Permalink}}">{{dateFormat "2 Jan 2006" .Params.event_date}}: <b>{{.Title}}</b></a>
+                </li>
+            {{ end }}
+        </ul>
+  </div>
+</main>
+{{ partial "footer.html" . }}

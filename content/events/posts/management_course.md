@@ -2,6 +2,7 @@
 title: "Code Management Course"
 date: 2019-05-15T11:40:00+01:00
 draft: false
+event_date: 2019-06-04T10:00:00+01:00
 ---
 
 The Oxford Research Software Engineering group is running a free ½ day course on code management for graduate students and other researchers at the University of Oxford.
