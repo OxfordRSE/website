@@ -3,11 +3,11 @@
 <main class="content" role="main">
   <article class="article">
 
-    {{ if ne .Title "Posts" }}
+    {{ if not (in (slice "Posts" "Events") .Title) }}
       <h1 class="article-title">{{ .Title }}</h1>
     {{ end }}
 
-    {{ if in (slice "rse_post" "tech_post") .Section }}
+    {{ if in (slice "rse_post" "tech_post" "event") .Section }}
       <span class="article-date">{{ .Date.Format "2006-01-02" }}</span>
     {{ end }}
 
@@ -22,6 +22,8 @@
 
     {{ if eq .Title "Posts" }}
       {{ partial "list-of-posts.html" . }}
+    {{ else if eq .Title "Events" }}
+      {{ partial "list-of-events.html" . }}
     {{ end }}
 
     <ul class="article-taxonomy">

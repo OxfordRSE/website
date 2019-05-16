@@ -3,12 +3,12 @@
     <h2 class="list-title">RSE posts</h2>
     {{ range where .Site.RegularPages "Section" "rse_post" }}
 
-    {{ partial "list-item.html" . }}
+    {{ partial "blog-item.html" . }}
     {{ end }}
 
     <h2 class="list-title">Tech posts</h2>
     {{ range where .Site.RegularPages "Section" "tech_post" }}
-    {{ partial "list-item.html" . }}
+    {{ partial "blog-item.html" . }}
     {{ end }}
 
 </div>
