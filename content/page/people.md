@@ -20,22 +20,6 @@ David currently serves on the advisory board of the Software Sustainability Inst
 
 
 {{% section-div %}}
-## [Andy Gilchrist](https://www.mpls.ox.ac.uk/our-team/andy-gilchrist)
-![Personal photo - Andy Gilchrist](photo_andy_gilchrist.jpg "Andy Gilchrist")\
-
-Andy is responsible for developing Oxford’s industrial links in the energy sector: anything from finding fossil fuels, through all forms of generating electricity, to how we distribute it, use it and indeed will pay for it.
-Companies engaged include BP, Shell, Siemens, Continental and EDF, together with a range of smaller companies.
-
-He has a particular interest in bringing together Oxford’s Professors to maximise Oxford’s contribution to a carbon-free world.
-He helps companies find relevant research, facilitates in finding co-funded opportunities and liaises with careers office on student engagement.
-
-As part of his role, he is bid to HEIF’s Connecting Capability Fund to develop Knowledge Exchange best practice in the use of 'IoT in commercial applications' (eg industry, health, energy and transport systems).
-The bid is led by Sheffield, partnering Oxford, Newcastle and Cambridge.
-Work of this project, funded by HEIF, will feed into a successful bid’s work programme.
-{{% /section-div %}}
-
-
-{{% section-div %}}
 ## [Simon Hettrick](https://www.software.ac.uk/simon-hettrick)
 ![Personal photo - Simon Hettrick](photo_simon_hettrick.jpg "Simon Hettrick")\
 
@@ -94,4 +78,34 @@ Mihaela Duta is a Research Associate in the [Oxford University Babylab](https://
 Mihaela has a long-standing active interest in research software engineering. From 2012 to 2018 she held the role of Research Software Officer in the Department of Experimental Psychology, during which time she provided sustainable software infrastructure for a wide variety of neuropsychology research projects. She specialises in translational interdisciplinary research involving the design, development and deployment of tablet-based tools for cognitive assessment. Apps assessing language development in children, attention and executive function in adolescents and young adults, and cognitive impairment related to old age or trauma have been deployed in schools, population surveillance centres and clinics in the UK, Europe, Africa and South America.
 
 Mihaela's current research interests include machine learning, signal processing, language development  and research methods. She has been a member of the committee for the UK community of the Research Software Engineers since 2016.
+{{% /section-div %}}
+
+
+{{% section-div %}}
+## [Graham Lee](/people/graham.lee)
+![Personal photo - Graham Lee](photo_graham_lee.jpg "Graham Lee")\
+
+Graham Lee came to Research Software Engineering following a career in industry, working with companies such as Apple, ARM, Facebook, and Sophos. His academic background is in Physics and Software Engineering.
+
+Graham runs a commercial software consultancy called [The Labrary](https://labrary.online), whose mission is to make it easier and faster to make high-quality software that respects privacy and freedom. He is often seen speaking at industry conferences, and has authored books on software security, testing, object-oriented programming, and Python programming.
+
+His software engineering interests include test-driven development, design by contract, and the Smalltalk and LISP programming environments.
+
+{{% /section-div %}}
+
+
+{{% section-div %}}
+## Thibault Lestang
+![Personal photo - Thibault Lestang](placeholder.svg "Thibault Lestang")\
+
+Coming soon.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 {{% /section-div %}}
