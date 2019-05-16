@@ -6,7 +6,7 @@ slug: "site-notice"
 
 ### Website Design
 
-This website uses [Hugo](https://gohugo.io/) static website generator ({{% hugo-version %}}), with the [Natrium](https://github.com/mobybit/hugo-natrium-theme) theme.
+This website uses [Hugo](https://gohugo.io/) static website generator ({{% hugo-version %}}), and originally used the [Natrium](https://github.com/mobybit/hugo-natrium-theme) theme.
 
 ### Copyright
 

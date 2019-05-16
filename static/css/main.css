@@ -295,36 +295,6 @@ blockquote {
   padding-left: 6px;
 }
 
-.article-taxonomy {
-  list-style: none;
-  padding-left: 0;
-  font-family: 'Lato', sans-serif;
-  color: #404040;
-  font-size: 14px;
-  text-align: left;
-}
-
-.article-taxonomy hr {
-  width: 200px;
-  margin: 5px 0 10px;
-  height: 1px;
-  border: none;
-  background: #e8e8e8;
-}
-
-.article-taxonomy a {
-  display: inline-block;
-  margin: 0 10px 0 0;
-  text-decoration: none;
-  color: inherit;
-  transition: color 300ms;
-}
-
-.article-taxonomy a:hover,
-.article-taxonomy a:active {
-  color: #ccc;
-}
-
 .article-image-large {
   padding: 2px;
   border: solid 1px #e6e6e6;
@@ -575,10 +545,6 @@ blockquote {
 
   .article-date {
     font-size: 19px;
-  }
-
-  .article-taxonomy {
-    font-size: 17px;
   }
 
   .list-title,

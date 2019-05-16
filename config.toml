@@ -1,14 +1,12 @@
 baseurl = "https://www.cs.ox.ac.uk/projects/RSE/"
 languageCode = "en-gb"
 title = "Oxford RSE"
-theme = "natrium"
-preserveTaxonomyNames = true
-rssLimit = 10
 paginate = 10
 pygmentsUseClasses = true
 pygmentsCodefences = true
 googleAnalytics = "UA-48149829-6"
 enableGitInfo = true
+disableKinds = ["section", "taxonomyTerm", "RSS"]
 
 [taxonomies]
     category = "categories"
