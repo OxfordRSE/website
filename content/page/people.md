@@ -82,18 +82,14 @@ Mihaela's current research interests include machine learning, signal processing
 
 
 {{% section-div %}}
-## Graham Lee
-![Personal photo - Graham Lee](placeholder.svg "Graham Lee")\
+## [Graham Lee](/people/graham.lee)
+![Personal photo - Graham Lee](photo_graham_lee.jpg "Graham Lee")\
 
-Coming soon.
+Graham Lee came to Research Software Engineering following a career in industry, working with companies such as Apple, ARM, Facebook, and Sophos. His academic background is in Physics and Software Engineering.
 
-&nbsp;
+Graham runs a commercial software consultancy called [The Labrary](https://labrary.online), whose mission is to make it easier and faster to make high-quality software that respects privacy and freedom. He is often seen speaking at industry conferences, and has authored books on software security, testing, object-oriented programming, and Python programming.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+His software engineering interests include test-driven development, design by contract, and the Smalltalk and LISP programming environments.
 
 {{% /section-div %}}
 
