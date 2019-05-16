@@ -24,6 +24,11 @@ enableGitInfo = true
     weight = -150
 
 [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = -145
+
+[[menu.main]]
     name = "People"
     url = "/people/"
     weight = -140
