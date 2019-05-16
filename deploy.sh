@@ -10,7 +10,7 @@ HOST=linux2.cs.ox.ac.uk
 DIR=/fs/website/projects/RSE/
 
 hugo 
-chmod -R g+w public/*
-rsync -avz --no-owner --no-perms --delete public/ ${USER}@${HOST}:${DIR}
+chmod -R g+w public/
+rsync -avz --no-perms --delete public/ ${USER}@${HOST}:${DIR}
 
 exit 0
