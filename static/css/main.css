@@ -9,7 +9,7 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-hyphens: auto;
   hyphens: auto;
-  text-align: justify;
+  text-align: left;
 }
 
 h1,
