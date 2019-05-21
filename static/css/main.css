@@ -106,19 +106,23 @@ blockquote {
   margin: 0 auto;
   padding: 0 15px;
   font-family: 'Lato', sans-serif;
+  display: flex;
+  align-items : center;
+  justify-content: space-between;
+  flex-grow: 1;
 }
 
 .nav-logo {
     transition: transform 150ms ease-out;
     display: inline-block;
     vertical-align: middle;
-    max-width: 39%;
+    max-width: 40%;
     width: 350px;
     height: 100%;
 }
 
 .nav-logo:hover {
-    transform: scale(1.05 );
+    transform: scale(1.05);
 }
 
 .nav-logo img {
@@ -130,28 +134,25 @@ blockquote {
 }
 
 .nav-links {
-  display: inline-block;
   vertical-align: middle;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
   margin: 0;
   padding: 0;
-  min-width: 59%;
+  max-width: 55%;
   font-size: 18px;
-  list-style: none;
   text-align: right;
-}
-
-.nav-links li {
-  display: inline-block;
-  margin: 0 0 0 25px;
-}
-
-.nav-links li:first-child {
-  margin-left: 0;
 }
 
 .nav-links a {
   text-decoration: none;
   color: #fff;
+  padding: 6px 10px;
+}
+
+.nav-links a.nav-icon {
+  display: none;
 }
 
 .nav-links a:visited {
@@ -160,6 +161,35 @@ blockquote {
 
 .nav-links a:hover {
  color: #ccc;
+}
+
+
+/* When the screen is less than 500 pixels wide, hide all links.
+   Show the link that should open and close the nav-links (.icon) */
+@media screen and (max-width: 500px) {
+  .nav-links a {
+    display: none;
+  }
+  .nav-links a.nav-icon {
+    display: flex;
+    font-size: 18pt;
+  }
+}
+
+/* The "responsive" class is added to the nav-links with JavaScript
+   when the user clicks on the icon. This class makes the nav-links
+   look good on small screens (display the links vertically instead
+   of horizontally) */
+@media screen and (max-width: 500px) {
+  .nav-links {
+    flex-flow: column nowrap;
+  justify-content: space-between;
+  }
+  .nav-links.responsive a {
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: right;
+  }
 }
 
 .content {

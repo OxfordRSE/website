@@ -7,9 +7,21 @@
          </a>
   </div>
 
-  <ul class="nav-links">
+  <div class="nav-links" id="nav-links-id">
+    <a href="javascript:void(0);" class="nav-icon" onclick="expandMenu()">&#9776;</a>
     {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    <a href="{{ .URL }}">{{ .Name }}</a>
     {{ end }}
-  </ul>
+  </div>
 </nav>
+
+<script>
+  function expandMenu() {
+    var x = document.getElementById("nav-links-id");
+    if (x.className === "nav-links") {
+      x.className += " responsive";
+    } else {
+      x.className = "nav-links";
+    }
+  }
+</script>
