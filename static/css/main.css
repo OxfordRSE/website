@@ -192,6 +192,21 @@ blockquote {
   }
 }
 
+.fa-envelope-square {
+  font-size: 32px;
+  padding: 5px;
+}
+
+.fa-github-square {
+  font-size: 32px;
+  padding: 5px;
+}
+
+.fa-twitter-square {
+  font-size: 32px;
+  padding: 5px;
+}
+
 .content {
   display: block;
   /*min-height: calc(100vh - 60px);*/
@@ -449,7 +464,6 @@ blockquote {
 }
 
 .footer {
-  height: 96px;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -460,7 +474,7 @@ blockquote {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: #ccc;
+  color: #777;
   font-size: 14px;
 }
 
@@ -470,7 +484,7 @@ blockquote {
 }
 
 .footer-links a {
-  color: #888;
+  color: #777;
   text-decoration: none;
   transition: color 300ms;
   margin: 0 0px;
