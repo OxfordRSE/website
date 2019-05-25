@@ -25,7 +25,8 @@ For more information about the research software community within the UK, please
 {{< figure
 src="/projects/RSE/images/ukrse_logo.png"
 link="http://rse.ac.uk/"
-width="20%"
+width="15%"
+alt="UKRSE logo"
 >}}
 
 
@@ -35,7 +36,8 @@ Institute](https://www.software.ac.uk).
 {{< figure
 src="/projects/RSE/images/ssi_logo.png"
 link="https://www.software.ac.uk/"
-width="50%"
+width="40%"
+alt="Software Sustainability Institute logo"
 >}}
 
 
@@ -44,5 +46,6 @@ We are currently funded by the EPSRC impact acceleration account.
 {{< figure
 src="/projects/RSE/images/epsrc_logo.svg"
 link="https://epsrc.ukri.org/"
-width="50%"
+width="40%"
+alt="EPSRC logo"
 >}}
