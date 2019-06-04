@@ -27,3 +27,8 @@ Topics include:
 **When**: 4th June 2019, from 10am to 3pm, with a break for lunch.
 
 How to sign up: We're already fully booked! But if you're interested, please [add yourself to the waitlist](https://www.eventbrite.co.uk/e/oxford-rse-code-management-course-tickets-61692070644) and if someone ahead of you cancels, you'll be able to get in. Additionally you'll help us measure future demand so we can schedule the course again.
+
+## Feedback
+
+If you attended this course, we would love to have your feedback on it.
+Please fill in [this short form](https://forms.gle/UXXhPVL2PhGU9hRm6).
