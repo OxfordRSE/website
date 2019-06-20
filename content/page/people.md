@@ -18,25 +18,10 @@ He has a long-standing interest in computational science, and in the development
 David currently serves on the advisory board of the Software Sustainability Institute (SSI).
 {{% /section-div %}}
 
-
 {{% section-div %}}
-## [Simon Hettrick](https://www.software.ac.uk/simon-hettrick)
-![Personal photo - Simon Hettrick](photo_simon_hettrick.jpg "Simon Hettrick")\
 
-Simon Hettrick is Deputy Director of the Software Sustainability Institute and co-Director of the Southampton Research Software Group.
-
-At the Software Sustainability Institute, Simon is responsible for the Institute strategy, research and campaigning.
-He works with stakeholders from across the research community to develop policies that support research software, the people who develop that software and the researchers who rely on it.
-Simon's research focusses on the use of software in the research community with the aim of understanding practices and demographics.
-
-Simon is a passionate advocate for Research Software Engineers.
-He was the instigator of the Institute's RSE campaign and was the founding chair of the UK community of Research Software Engineers - and has been a committee member ever since.
-He is the Principal Investigator of the RSE Network.
-{{% /section-div %}}
-
-
-{{% section-div %}}
 ## [Martin Robinson](/people/martin.robinson/)
+
 ![Personal photo - Martin Robinson](photo_martin_robinson.jpg "Martin
 Robinson")\
 
