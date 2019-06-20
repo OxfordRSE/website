@@ -1,9 +1,8 @@
 ---
-title: "Research Software Engineering at the University of Oxford"
+title: "Oxford Research Software Engineering"
 date: 2018-05-02T16:20:41+01:00
 draft: false
 ---
-
 
 The Oxford Research Software Engineering group is based in the [Department of Computer Science](http://www.cs.ox.ac.uk/).
 We address the need for professional software engineering expertise within the University of Oxford and for external collaborators.

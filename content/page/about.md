@@ -3,7 +3,7 @@ title: "About"
 date: "2018-02-09"
 ---
 
-# Background
+## Background
 
 Over the last three decades research in academia and industry has become
 increasingly reliant on software. A recent survey of RCUK-funded research being
@@ -28,8 +28,7 @@ UCL](http://www.ucl.ac.uk/research-it-services/research-software-development)
 which has expanded to ten permanent staff, including two who were recruited
 from Oxford.
 
-
-# Original RSE survey project
+## Original RSE survey project
 
 We explored the need for research software engineering (RSE) support in
 both the academic research and the knowledge transfer spaces within Oxford. Our
@@ -51,4 +50,3 @@ aims were to:
    within Oxford.
 
 This initial project was successful and has led to the creation of this Research Software Engineering group.
-

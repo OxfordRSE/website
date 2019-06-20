@@ -4,8 +4,8 @@ date: 2018-05-02T16:25:22+01:00
 draft: false
 ---
 
-
 {{% section-div %}}
+
 ## [David Gavaghan](/people/David.Gavaghan/)
 
 ![Personal photo - David Gavaghan](photo_david_gavaghan.jpg "David Gavaghan")
@@ -38,11 +38,13 @@ including
 [PINTS](https://github.com/pints-team/pints),
 [Smoldyn](http://www.smoldyn.org/), and
 [SPH-DEM](https://github.com/martinjrobins/SPH-DEM)
+
 {{% /section-div %}}
 
-
 {{% section-div %}}
+
 ## [Fergus Cooper](http://www.dtc.ox.ac.uk/people/13/cooperf/)
+
 ![Personal photo - Fergus Cooper](photo_fergus_cooper.jpg "Fergus Cooper")\
 
 Fergus Cooper did his DPhil in the [Wolfson Centre for Mathematical Biology](https://www.maths.ox.ac.uk/groups/mathematical-biology).
@@ -51,11 +53,13 @@ Fergus's research focusses on the development of computational tools which he ap
 Through the development of computational modelling tools he has become interested in, and an advocate for, software best practices within academia.
 
 Fergus is a leading developer on the [Chaste project](http://www.cs.ox.ac.uk/chaste/), contributes to a number of other projects including [Trase](https://github.com/trase-cpp/trase), and has a particular interest in the C++ programming language.
+
 {{% /section-div %}}
 
-
 {{% section-div %}}
+
 ## [Mihaela Duta](https://www.psy.ox.ac.uk/team/mihaela-duta)
+
 ![Personal photo - Mihaela Duta](photo_mihaela_duta.jpg "Mihaela Duta")\
 
 Mihaela Duta is a Research Associate in the [Oxford University Babylab](https://www.psy.ox.ac.uk/research/oxford-babylab) within the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/). Her current research focus is on neuro-computational models for language-mediated attention in infancy.
@@ -65,9 +69,10 @@ Mihaela has a long-standing active interest in research software engineering. Fr
 Mihaela's current research interests include machine learning, signal processing, language development  and research methods. She has been a member of the committee for the UK community of the Research Software Engineers since 2016.
 {{% /section-div %}}
 
-
 {{% section-div %}}
+
 ## [Graham Lee](/people/graham.lee)
+
 ![Personal photo - Graham Lee](photo_graham_lee.jpg "Graham Lee")\
 
 Graham Lee came to Research Software Engineering following a career in industry, working with companies such as Apple, ARM, Facebook, and Sophos. His academic background is in Physics and Software Engineering.
@@ -78,9 +83,10 @@ His software engineering interests include test-driven development, design by co
 
 {{% /section-div %}}
 
-
 {{% section-div %}}
+
 ## Thibault Lestang
+
 ![Personal photo - Thibault Lestang](placeholder.svg "Thibault Lestang")\
 
 Coming soon.

@@ -1,6 +1,5 @@
 <div class="list">
-
-    <h2 class="list-title">Events</h2>
+    <h1 class="article-title">{{ .Title }}</h1>
     {{ range where .Site.RegularPages "Section" "events" }}
 
     {{ partial "event-item.html" . }}
