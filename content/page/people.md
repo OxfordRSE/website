@@ -87,16 +87,14 @@ His software engineering interests include test-driven development, design by co
 
 ## Thibault Lestang
 
-![Personal photo - Thibault Lestang](placeholder.svg "Thibault Lestang")\
+![Personal photo - Thibault Lestang](photo_thibault_lestang.jpg "Thibault Lestang")\
 
-Coming soon.
+Thibault holds a PhD from [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE), involving statistical physics, fluid mechanics and high performance computing.
 
-&nbsp;
+He has been writing research software to assess the applicability of statistical physics algorithms
+to the numerical simulation of extreme events in turbulent flows.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Thibault joined OxRSE out of his enthusiasm for both research and software engineering, as well as computing.
+His main interests are rare-event sampling algorithms, turbulence, the Lattice Boltzmann Method, High Performance Computing.
 
 {{% /section-div %}}
