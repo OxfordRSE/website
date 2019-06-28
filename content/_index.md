@@ -4,10 +4,12 @@ date: 2018-05-02T16:20:41+01:00
 draft: false
 ---
 
-The Oxford Research Software Engineering group is based in the [Department of Computer Science](http://www.cs.ox.ac.uk/).
-We address the need for professional software engineering expertise within the University of Oxford and for external collaborators.
+Oxford Research Software Engineering enables academics to work with professional software developers who specialise in translational research and research projects aiming for commercialisation. We can help with:
 
-Our group enables academics to work with professional software developers who specialise in translational research and research projects aiming for commercialisation.
+ - Defining, scoping and costing software effort in grant proposals;
+ - Delivering high-quality software to enable research outputs;
+ - Training your group in software engineering best practice;
+ - Helping you and your spin-out commercialise your research software.
 
 If you are interested in collaborating with us on your project, please fill in [this short form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3):
 
@@ -15,9 +17,7 @@ If you are interested in collaborating with us on your project, please fill in [
 [Get in touch about your software project](https://goo.gl/forms/Ten4EsxZSOUIwJLD3)
 {{% /obvious-link %}}
 
-<!-- from a central Oxford pool as and when they are needed: for any period from a few days to a few years. -->
-
-<!-- You can find more information about us and our project aims in the [About]({{<ref "about.md" >}}) page. -->
+***
 
 For more information about the research software community within the UK, please see the [UK Research Software Engineers Association](http://rse.ac.uk).
 
