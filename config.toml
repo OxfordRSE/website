@@ -27,6 +27,11 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
     weight = -147
 
 [[menu.main]]
+    name = "Training"
+    url = "/training/"
+    weight = -146
+
+[[menu.main]]
     name = "Events"
     url = "/events/"
     weight = -145
