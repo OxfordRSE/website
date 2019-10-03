@@ -1,14 +1,10 @@
 ---
-title: "RSE Conference: (Research Software) Engineering != Research (Software Engineering)"
+title: "RSE Conference 2019 Talk on Engineering Principles"
 date: 2019-10-02
 draft: false
 ---
 
-RSE team member [Graham Lee](https://twitter.com/iwasleeg) gave a talk to [the Fourth Conference on Research Software Engineering](https://rse.ac.uk/conf2019/), on how (or whether) principles from software engineering methodologies that arose in commercial contexts apply to research software. This is based on his experience in commercial software teams at various scales:
-
- - startups like Allinea Software, and Wealth Wizards;
- - agencies like Big Nerd Ranch, and Agant;
- - multinationals, including ARM, Facebook, and Apple.
+RSE team member [Graham Lee](https://twitter.com/iwasleeg) gave a talk to [the Fourth Conference on Research Software Engineering](https://rse.ac.uk/conf2019/), on how (or whether) principles from software engineering methodologies that arose in commercial contexts apply to research software. This is based on his experience in commercial software teams at various scales: small startups, multinationals based in the UK and US, and at agencies working with all varieties of commercial customers.
 
 Graham recently became an RSE in Oxford. He noted in his talk that this may limit the generality of his observations to other academic contexts: not many corporate management and governance systems have outlived [entire empires](https://en.wikipedia.org/wiki/Ottoman_Empire), so the way things work in Oxford is likely to be quite idiosyncratic. Unless [this sort of thing](https://www.telegraph.co.uk/news/uknews/1314859/Mallard-leads-Oxford-fellows-a-merry-dance.html) is commonplace.
 
@@ -65,7 +61,7 @@ On the other hand, there are principles from Agile software development that are
 
 We should think more critically about the _context_ in which Agile arose. As mentioned, it was a reaction to the software engineering movement started in Garmisch in the 1960s. A common interpretation of software engineering was as a controlling activity, in which managers and analysts could successfully constrain developers into building the right things. In fact, software projects frequently overran their schedule, overspent their budget, or were cancelled without delivering anything of value. The people behind the Agile manifesto experimented with ways in which developers and domain experts could collaborate on incrementally and iteratively building better (more "valuable", that word again) software that evolved with the people building and using it, rather than being defined once and delivered at most once.
 
-And they did this in the context of salaried software teams, working on long-term systems supporting particular businesses. [Extreme Programming](http://www.extremeprogramming.org/), defined by Kent Beck and colleagues, and one of the prototypical methodologies for the Agile movement, supported a payroll application at a large car manufacturer. Other Agile manifesto signatories were consultants and trainers, supporting similar teams. One of the signatories (Steve Mellor) had some research experience as a programmer at CERN and Lawrence Berkeley National Labs, but had been a commercial consultant for a long time before 2001.
+And they did this in the context of salaried software teams, working on long-term systems supporting particular businesses. [Extreme Programming](http://www.extremeprogramming.org/), defined by Kent Beck and colleagues, and one of the prototypical methodologies for the Agile movement, supported a payroll application at a large car manufacturer: Chrysler Comprehensive Compensation. Other Agile manifesto signatories were consultants and trainers, supporting similar teams. One of the signatories (Steve Mellor) had some research experience as a programmer at CERN and Lawrence Berkeley National Labs, but had been a commercial consultant for a long time before 2001.
 
 Evolutionary, incremental ways of working, with introspection and improvement, work well in these contexts because there's an assumption that the same team (if not exactly the same collection of individuals) will be supporting the same system (if not exactly the same collection of bits) for a long time. That if I've been hired to work on Chrysler Comprehensive Compensation now, Chrysler will still want a solution to their compensation problem next year. And that as Chrysler changes, that solution will change. Once the headcount decision has been made, and the capital acquisitions to pay for desks, chairs and computers, the team is pretty much ready to go and has the responsibility (and hopefully the authority) delegated to it to solve the problem. There's a lot more leeway on _how_ you solve the problem, than if you have to go to a funding council and ask for exactly this much money to deliver exactly these things over exactly this timeframe.
 
