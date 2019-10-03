@@ -18,6 +18,12 @@ Concepts of version control. Command-line use of `git`. Detecting and resolving 
 
 A one-day class.
 
+ ## Introduction to C++
+ 
+Introduction to C++: basic types, flow control, input/output pointers, references, dynamic memory allocation and arrays, functions, classes and object-oriented programming, templates and the Standard Template Library, Exceptions
+
+This is a 4-5 day class
+
 ## Modern C++
 
 Overview of language and library evolution since 2011. Standard algorithms. Smart pointers. Lambda functions. The filesystem library. Refactoring legacy C++.
