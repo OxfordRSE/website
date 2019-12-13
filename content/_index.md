@@ -13,9 +13,9 @@ Oxford Research Software Engineering enables academics to work with professional
 
 If you are interested in collaborating with us on your project, please fill in [this short form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3):
 
-{{% obvious-link %}}
+{{< obvious-link >}}
 [Get in touch about your software project](https://goo.gl/forms/Ten4EsxZSOUIwJLD3)
-{{% /obvious-link %}}
+{{< /obvious-link >}}
 
 ***
 
