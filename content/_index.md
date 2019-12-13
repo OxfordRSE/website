@@ -22,7 +22,7 @@ If you are interested in collaborating with us on your project, please fill in [
 For more information about the research software community within the UK, please see the [UK Research Software Engineers Association](http://rse.ac.uk).
 
 {{< figure
-src="/projects/RSE/images/ukrse_logo.png"
+src="/images/ukrse_logo.png"
 link="http://rse.ac.uk/"
 width="15%"
 alt="UKRSE logo"
@@ -33,7 +33,7 @@ For resources for improving research software, see the [Software Sustainability
 Institute](https://www.software.ac.uk).
 
 {{< figure
-src="/projects/RSE/images/ssi_logo.png"
+src="/images/ssi_logo.png"
 link="https://www.software.ac.uk/"
 width="40%"
 alt="Software Sustainability Institute logo"
@@ -43,7 +43,7 @@ alt="Software Sustainability Institute logo"
 We are currently funded by the EPSRC impact acceleration account.
 
 {{< figure
-src="/projects/RSE/images/epsrc_logo.svg"
+src="/images/epsrc_logo.svg"
 link="https://epsrc.ukri.org/"
 width="40%"
 alt="EPSRC logo"

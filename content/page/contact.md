@@ -16,4 +16,4 @@ Parks Road
 OXFORD OX1 3QD  
 United Kingdom
 
-![Wolfson building](/projects/RSE/images/wolfsonbuilding.jpg "Wolfson building")
+![Wolfson building](/images/wolfsonbuilding.jpg "Wolfson building")
