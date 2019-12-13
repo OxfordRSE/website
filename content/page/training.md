@@ -4,7 +4,7 @@ date: 2019-10-02
 draft: false
 ---
 
-The Oxford RSE group offers training in the following areas. Our [events page](https://www.cs.ox.ac.uk/projects/RSE/events/) lists upcoming scheduled courses, you can also [contact us](https://www.cs.ox.ac.uk/projects/RSE/contact/) to arrange one-off bespoke training for your group.
+The Oxford RSE group offers training in the following areas. Our [events page](https://www.rse.ox.ac.uk/events/) lists upcoming scheduled courses, you can also [contact us](https://www.rse.ox.ac.uk/contact/) to arrange one-off bespoke training for your group.
 
 ## Scientific Python
 
@@ -19,7 +19,7 @@ Concepts of version control. Command-line use of `git`. Detecting and resolving 
 A one-day class.
 
 ## Introduction to C++
- 
+
 Introduction to C++: basic types, flow control, input/output pointers, references, dynamic memory allocation and arrays, functions, classes and object-oriented programming, templates and the Standard Template Library, Exceptions
 
 This is a 4-5 day class

@@ -5,7 +5,7 @@ draft: false
 publishDate: 2019-09-30
 ---
 
-The Oxford Research Software Engineering (OxRSE) group (http://www.cs.ox.ac.uk/projects/RSE/), with the Research Software Developers Network (RSDN) is organising a series of monthly lunch-time seminars starting this month, on the 10th October, 12:30 - 13:30.
+The [Oxford Research Software Engineering (OxRSE) group](https://www.rse.ox.ac.uk/), with the Research Software Developers Network (RSDN) is organising a series of monthly lunch-time seminars starting this month, on the 10th October, 12:30 - 13:30.
 
 Please join us in Lecture Theatre B in the Department of Computer Science, Wolfson building. Lunch will be provided, and to give us an idea of numbers please sign up via this form.
 

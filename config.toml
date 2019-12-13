@@ -1,4 +1,4 @@
-baseurl = "https://www.cs.ox.ac.uk/projects/RSE/"
+baseurl = "https://www.rse.ox.ac.uk/"
 languageCode = "en-gb"
 title = "Oxford RSE"
 paginate = 10
