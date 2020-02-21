@@ -8,6 +8,8 @@ If you are interested in collaborating with us on your project, please fill in [
 
 If you have any questions, please email us at <rse@cs.ox.ac.uk>.
 
+We also have a mailing list for announcements. To subscribe, send a blank email to <rse-announce-subscribe@maillist.ox.ac.uk>.
+
 ## Postal address
 
 Department of Computer Science, University of Oxford  
