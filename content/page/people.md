@@ -96,4 +96,17 @@ to the numerical simulation of extreme events in turbulent flows.
 Thibault joined OxRSE out of his enthusiasm for both research and software engineering, as well as computing.
 His main interests are rare-event sampling algorithms, turbulence, the Lattice Boltzmann Method, High Performance Computing.
 
+## [Abhishek Dasgupta](https://abhidg.name)
+
+![Personal photo - Abhishek Dasgupta](photo_abhishek_dasgupta.jpg "Abhishek Dasgupta")
+
+Abhishek has a DPhil in [Computer Science](https://www.cs.ox.ac.uk) from the
+University of Oxford. His interests are in innovative applications of machine
+learning and complex systems techniques to problems across several domains,
+such as computational social science and political science.
+
+As a Research Software Engineer, he is interested in advancing software
+engineering best practices, such as unit testing and reproducibility in
+research.
+
 {{< /section-div >}}
