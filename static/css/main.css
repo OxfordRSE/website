@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Serif', sans-serif;
   -webkit-hyphens: auto;
   hyphens: auto;
   text-align: left;
@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #002147;
   margin: 0;
   line-height: 1.8;
@@ -111,7 +111,7 @@ blockquote {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   display: flex;
   align-items : center;
   justify-content: space-between;
@@ -233,7 +233,7 @@ blockquote {
 
 .article-date {
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #ccc;
 }
 
@@ -307,7 +307,7 @@ blockquote {
   padding: 0;
   padding-left: 10px;
   border-radius: 3px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #404040;
 
 }
@@ -382,7 +382,7 @@ blockquote {
 .list-item-date {
   display: block;
   padding: 4px 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #ccc;
   font-size: 14px;
 }
@@ -390,7 +390,7 @@ blockquote {
 .event-item-date {
   display: block;
   padding: 4px 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #000;
   font-size: 17px;
 }
@@ -398,7 +398,7 @@ blockquote {
 .list-item .project-particulars {
   display: inline;
   padding: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: #000;
   font-size: 16px;
 }
@@ -410,7 +410,7 @@ blockquote {
   margin: 0;
   text-decoration: none;
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: normal;
   color: #000;
   border-bottom: 1px solid #ddd;
@@ -433,7 +433,7 @@ blockquote {
   padding: 3px 0;
   text-decoration: none;
   font-size: 17px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   color: #222;
   border-bottom: 1px solid #ddd;
@@ -456,14 +456,14 @@ blockquote {
   padding: 5px 0;
   text-decoration: none;
   font-size: 19px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   color: #222;
   transition: color 300ms;
 }
 
 .category-item-count {
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   margin-right: 15px;
   color: #ccc;
   font-size: 14px;
@@ -483,7 +483,7 @@ blockquote {
 
 .tag-cloud-item a {
   text-decoration: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   color: #222;
   transition: color 300ms;
@@ -500,7 +500,7 @@ blockquote {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .footer-links {
@@ -540,7 +540,7 @@ blockquote {
   margin: 25px 0;
   padding: 0;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 16px;
 }
 
