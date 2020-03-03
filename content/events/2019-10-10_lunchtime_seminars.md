@@ -1,7 +1,7 @@
 ---
 title: "Lunch time seminars with RSDN"
 date: 2019-10-10T10:00:00+01:00
-draft: false
+draft: true
 publishDate: 2019-09-30
 ---
 
