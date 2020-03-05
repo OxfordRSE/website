@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   position: relative;
+  color: black;
 }
 
 body {
@@ -237,6 +238,10 @@ blockquote {
   color: #ccc;
 }
 
+.article-content {
+  color: black
+}
+
 .article-content p {
   margin: 15px 0 25px;
 }
@@ -276,9 +281,10 @@ blockquote {
 .obvious-link {
   padding: 8px;
   border-radius: 10px;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
   text-align: center;
+  font-family: 'PT Sans', sans-serif;
   font-size: 32px;
   background-color: #002147;
 }
