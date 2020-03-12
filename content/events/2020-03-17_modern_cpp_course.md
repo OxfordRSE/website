@@ -1,14 +1,15 @@
 ---
-title: "Modern C++ Course"
+title: "Modern C++ Course - CANCELLED"
 date: 2020-03-17T10:00:00+01:00
 draft: false
 publishDate: 2020-03-03
 ---
 
+**We regret to announce that this course has been cancelled and will be rescheduled when it is sensible to do so.**
 
 ![modern C++ course](/images/modern-cpp-course.jpg "modern C++ course")
 
-17 March 2020 ~ [Oxford e-Research Centre](https://goo.gl/maps/dkwRade5eaj8Jmvg6) ~ [Sign-up on Eventbrite](https://www.eventbrite.com/e/oxford-rse-modern-c-course-tickets-97716768485)
+<!-- 17 March 2020 ~ [Oxford e-Research Centre](https://goo.gl/maps/dkwRade5eaj8Jmvg6) ~ [Sign-up on Eventbrite](https://www.eventbrite.com/e/oxford-rse-modern-c-course-tickets-97716768485) -->
 
 The Oxford Research Software Engineering group is running a free course on modern C++ for graduate students and researchers:
 
