@@ -24,7 +24,12 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
 [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = -147
+    weight = -149
+
+[[menu.main]]
+    name = "Surgeries"
+    url = "/software-surgeries/"
+    weight = -148
 
 [[menu.main]]
     name = "Training"
@@ -50,6 +55,11 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
     name = "Blog"
     url = "/posts/"
     weight = -120
+
+[[menu.main]]
+    name = "OCRN"
+    url = "/oxford-code-review-network/"
+    weight = -115
 
 [[menu.main]]
     name = "Contact"
