@@ -26,7 +26,6 @@ We are able to offer help on a variety of topics, including:
 
 Dates for upcoming software surgeries are:
 
-- 31 Mar 2020
 - 14 Apr 2020
 - 28 Apr 2020
 - 12 May 2020
