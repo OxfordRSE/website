@@ -4,7 +4,10 @@ date: 2018-05-02T16:20:41+01:00
 draft: false
 ---
 
-Oxford Research Software Engineering enables academics to work with professional software developers who specialise in translational research and research projects aiming for commercialisation. We can help with:
+The Oxford Research Software Engineering (OxRSE) Group enables academics to work with 
+professional software developers with close ties to academia, to enable basic research 
+outcomes, translational research, or research projects aiming for commercialisation. We 
+can help with:
 
  - Defining, scoping and costing software effort in grant proposals;
  - Delivering high-quality software to enable research outputs;
