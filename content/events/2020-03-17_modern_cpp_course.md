@@ -1,15 +1,13 @@
 ---
-title: "Modern C++ Course - CANCELLED"
-date: 2020-03-17T10:00:00+01:00
+title: "Modern C++ Course"
+date: 2020-05-07T14:00:00+01:00
 draft: false
 publishDate: 2020-03-03
 ---
 
-**We regret to announce that this course has been cancelled and will be rescheduled when it is sensible to do so.**
-
 ![modern C++ course](/images/modern-cpp-course.jpg "modern C++ course")
 
-<!-- 17 March 2020 ~ [Oxford e-Research Centre](https://goo.gl/maps/dkwRade5eaj8Jmvg6) ~ [Sign-up on Eventbrite](https://www.eventbrite.com/e/oxford-rse-modern-c-course-tickets-97716768485) -->
+07 May 2020 ~ Remote (MS Teams) ~ [Sign-up on Eventbrite](https://www.eventbrite.co.uk/e/oxford-rse-modern-c-course-tickets-103443341820)
 
 The Oxford Research Software Engineering group is running a free course on modern C++ for graduate students and researchers:
 
@@ -35,15 +33,15 @@ The course is aimed at graduate students and other researchers who have a workin
 
 ## Where
 
-Conference Room (278), level 2, Oxford e-Research Centre.
+Remote. We will use MS Teams for primary content delivery, and additional tools (provided) for interaction with TAs during the course.
 
 ## When
 
-17th March 2020, from 10am to 4pm, with a break for lunch.
+7th May 2020, from 2pm to 5:30pm, with a break for coffee.
 
 ## Requirements
 
-Participants must bring their own laptop that they have administrative privileges on. A virtualbox disk image will be provided that will contain all necessary software for the course.
+Participants must bring their own laptop that they have VirtualBox installed on. A VirtualBox disk image will be provided that will contain all necessary software for the course.
 
 ## Contact
 
