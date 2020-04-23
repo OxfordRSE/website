@@ -14,10 +14,22 @@ has developed a new method, called FastSMC, that enables accurate biobank-scale
 detection of IBD segments transmitted by common ancestors living up to several hundreds 
 of generations in the past.
 
-The OxRSE group has developed an interactive [web 
+The OxRSE group has been working with the Palamara Lab since July 2019 on their
+C++ implementation of FastSMC. This has included improvements to functionality,
+stability and use of best practices, as well as creating Python bindings to improve ease
+of use for non-specialist users.
+
+In addition, the OxRSE group has developed an interactive [web 
 application]((https://ukancestrymap.github.io/)), to visualise IBD data calculated from 
 samples from the UK Biobank data set, which contains the genomes of about 500,000 
-donors. 
+donors.
+
+{{< figure
+src="/images/fastsmc.png"
+link="https://ukancestrymap.github.io/"
+width="50%"
+alt="Visualising IBD data in the UK"
+>}}
 
 This visualisation was created as a companion to the paper:
 
