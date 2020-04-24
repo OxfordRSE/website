@@ -20,7 +20,7 @@ stability and use of best practices, as well as creating Python bindings to impr
 of use for non-specialist users.
 
 In addition, the OxRSE group has developed an interactive [web 
-application]((https://ukancestrymap.github.io/)), to visualise IBD data calculated from 
+application](https://ukancestrymap.github.io/), to visualise IBD data calculated from 
 samples from the UK Biobank data set, which contains the genomes of about 500,000 
 donors.
 
