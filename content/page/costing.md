@@ -20,6 +20,8 @@ Particularly, we will advise you on the best route to fund RSE support.
 
 ## Costed RSE service
 In most cases, RSE time must be costed into your research grant; the time of one Full Time Equivalent (FTE) RSE being roughly equal to the time of a grade 7.5 postdoctoral researcher.
+If you already have available funds, OxRSE time can also be costed using a service research facility with a standard daily rate.
+As of April 2020, this rate is £306.
 Should you be interested in collaborating with OxRSE, we encourage you to get in touch with us in the early stages of the redaction of your project
 proposal. 
 Research Software Engineers from OxRSE will be able to discuss software-related aspects of your project and provide guidance regarding the corresponding sections of your funding application.
