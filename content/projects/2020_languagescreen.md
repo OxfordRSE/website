@@ -10,13 +10,15 @@ draft: false
 
 {{< figure src="/images/LanguageScreen_participant.png" title="LanguageScreen is a set of quick to administer language tests running as an Android app which communicates with a secure website" >}}
 
-{{< language-screen >}} gives education professionals a quick and accurate assessment of a child's oral language skills which provide the foundation for the development of literacy skills and formal education more broadly. Automated language screening can provide a way of indentifying children who would benefit from language intervention. {{< language-screen >}}  has been shown to be reliable, valid and easy to administer.
+{{< language-screen >}} gives education professionals a quick and accurate assessment of a child's oral language skills which provide the foundation for the development of literacy skills and formal education more broadly. Automated language screening can provide a way of indentifying children who would benefit from language intervention. 
+
+{{< language-screen >}}  has been shown to be reliable, valid and easy to administer.
 
 {{< youtube HChvFmXmLtQ >}}
 
 {{< language-screen >}} is intended to be used with children 3--8 years of age. There are four subtests: expressive vocabulary, listening comprehension, receptive vocabulary, and sentence repetition. Automatically generated reports can be downloaded from the secure website. 
 
-The {{< language-screen >}}>  project is based at the [Department of Education](http://www.education.ox.ac.uk) and is led by
+The {{< language-screen >}}  project is based at the [Department of Education](http://www.education.ox.ac.uk) and is led by
 [Prof. Charles Hulme](http://www.education.ox.ac.uk/people/charles-hulme/)
 and [Prof. Maggie Snowling](https://www.sjc.ox.ac.uk/discover/people/professor-maggie-snowling/) ([Department of Experimental Psychology](http://www.psy.ox.ac.uk)), along with
 [Dr. Gillian West](http://www.education.ox.ac.uk/people/gillian-west/),
