@@ -1,13 +1,26 @@
-    <nav class="list-item">
-      <p><a href="{{ .Permalink }}">{{ .Title }}</a>
-        <span class="project-particulars">
-          <a href="{{ .Permalink }}">
-            <img src="{{ .Site.BaseURL }}images/{{ .Page.Params.image | markdownify}}"
-                 alt="{{ .Page.Params.imagealt | markdownify}}"
-                 width=100%>
-          </a>
-          <p>{{ .Page.Params.client | markdownify }}</p>
-          <p>{{ .Page.Params.description | markdownify }}</p>
-        </span>
-      </p>
-    </nav>
+<nav class="list-item">
+
+  <div class="project-main-listing">
+
+    <div class="project-image">
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Site.BaseURL }}images/{{ .Page.Params.image }}" alt="{{ .Page.Params.imagealt | markdownify}}"
+          width=100%>
+      </a>
+    </div>
+
+    <div class="project-particulars">
+      <div class="project-particulars-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </div>
+      <div class="project-particulars-client">
+        {{ .Page.Params.client | markdownify }}
+      </div>
+      <div class="project-particulars-description">
+        {{ .Page.Params.description | markdownify }}
+      </div>
+    </div>
+
+  </div>
+
+</nav>
