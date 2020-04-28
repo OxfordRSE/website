@@ -1,7 +1,9 @@
 ---
 title: "LanguageScreen"
 client: "[Department of Education](https://www.education.ox.ac.uk/), University of Oxford"
-description: "Language skill assessment application for children"
+description: "Language skill assessment for primary school children."
+image: "LanguageScreen_logo.jpg"
+imagealt: "LanguageScreen logo"
 date: 2019-08-01
 draft: false
 ---

@@ -1,7 +1,13 @@
     <nav class="list-item">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <span class="project-particulars">
-        <p>{{ .Page.Params.client | markdownify }}</p>
-        <p>{{ .Page.Params.description | markdownify }}</p>
-      </span>
+      <p><a href="{{ .Permalink }}">{{ .Title }}</a>
+        <span class="project-particulars">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Site.BaseURL }}images/{{ .Page.Params.image | markdownify}}"
+                 alt="{{ .Page.Params.imagealt | markdownify}}"
+                 width=100%>
+          </a>
+          <p>{{ .Page.Params.client | markdownify }}</p>
+          <p>{{ .Page.Params.description | markdownify }}</p>
+        </span>
+      </p>
     </nav>
