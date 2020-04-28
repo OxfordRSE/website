@@ -403,9 +403,13 @@ blockquote {
 
 .list-item .project-image {
   width: 20%;
+  padding: 0;
 }
 .list-item .project-image a {
   border: none;
+}
+.list-item .project-image img {
+  padding: 0;
 }
 
 .list-item .project-particulars {

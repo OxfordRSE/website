@@ -2,13 +2,13 @@
 title: "LanguageScreen"
 client: "[Department of Education](https://www.education.ox.ac.uk/), University of Oxford"
 description: "Language skill assessment for primary school children."
-image: "LanguageScreen_logo.jpg"
+image: "projects/LanguageScreen_logo.png"
 imagealt: "LanguageScreen logo"
 date: 2019-08-01
 draft: false
 ---
 
-{{< figure src="/images/LanguageScreen_participant.png" title="LanguageScreen is a set of quick to administer language tests running as an Android app which communicates with a secure website" >}}
+{{< figure src="/images/projects/LanguageScreen_participant.jpg" title="LanguageScreen is a set of quick to administer language tests running as an Android app which communicates with a secure website" >}}
 
 {{< language-screen >}} gives education professionals a quick and accurate assessment of a child's oral language skills which provide the foundation for the development of literacy skills and formal education more broadly. Automated language screening can provide a way of indentifying children who would benefit from language intervention. 
 
