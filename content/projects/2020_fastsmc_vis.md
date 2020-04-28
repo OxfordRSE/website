@@ -3,6 +3,8 @@ title: "Visualize genetic relatedness in the UK"
 client: "[Palamara Lab](https://www.palamaralab.org/), University of Oxford"
 description: "[Web application](https://ukancestrymap.github.io/) visualising 
 Identical-By-Descent data from the past 1,500 years in the UK"
+image: "projects/fastsmc_logo.png"
+imagealt: "LanguageScreen logo"
 date: 2019-01-25T16:38:09+01:00
 draft: false
 ---
@@ -25,7 +27,7 @@ samples from the UK Biobank data set, which contains the genomes of about 500,00
 donors.
 
 {{< figure
-src="/images/fastsmc.png"
+src="/images/projects/fastsmc.png"
 link="https://ukancestrymap.github.io/"
 width="50%"
 alt="Visualising IBD data in the UK"

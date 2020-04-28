@@ -3,6 +3,7 @@ title: "PyBaMM Battery Modelling"
 client: "[Mathematical Institute](https://www.maths.ox.ac.uk/), University of Oxford"
 description: "Enabling the comparison of battery models."
 image: "projects/rse_logo_placeholder.svg"
+imagealt: "OxRSE logo"
 date: 2019-01-01
 draft: false
 ---
