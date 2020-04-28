@@ -4,7 +4,7 @@ date: 2020-03-26T00:00:00Z
 draft: false
 ---
 
-The Oxford RSE group runs a free remote software surgery for members of the University every second Tuesday.
+The Oxford RSE group runs a free remote software surgery for members of the University every Tuesday.
 
 ## What
 
@@ -24,12 +24,8 @@ We are able to offer help on a variety of topics, including:
 
 ## When
 
-Dates for upcoming software surgeries are:
-
-- 14 Apr 2020
-- 28 Apr 2020
-- 12 May 2020
-- 26 May 2020
+We run surgeries weekly on Tuesdays.
+Due to high demand there is roughly a one month lead time for an appointment.
 
 ## Booking
 
