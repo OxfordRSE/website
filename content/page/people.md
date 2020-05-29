@@ -24,19 +24,20 @@ David currently serves on the advisory board of the Software Sustainability Inst
 
 ![Personal photo - Martin Robinson](photo_martin_robinson.jpg "Martin Robinson")
 
-Martin Robinson is a Postdoctoral Researcher in the [Computational Biology
+[Martin Robinson](https://github.com/martinjrobins) is a Senior Research Software 
+Engineer, and the OxRSE head of group. Previously he was in the [Computational Biology
 group](https://www.cs.ox.ac.uk/activities/compbio/) within the [Department of
-Computer Science](https://www.cs.ox.ac.uk/) at the University of Oxford.
+Computer Science](https://www.cs.ox.ac.uk/). He is also a co-director for the [SABS 
+R3](https://www.sabsr3.ox.ac.uk/) doctoral training centre.
 
 He is interested in modelling and simulation, particle-based methods, Bayesian
 inference and developing robust and reliable research software. Through this
 work he has authored or contributed to a number of research software projects,
-including
-[Aboria](https://github.com/martinjrobins/Aboria),
-[Chaste](http://www.cs.ox.ac.uk/chaste/),
-[PINTS](https://github.com/pints-team/pints),
-[Smoldyn](http://www.smoldyn.org/), and
-[SPH-DEM](https://github.com/martinjrobins/SPH-DEM)
+including [Aboria](https://github.com/martinjrobins/Aboria), 
+[PINTS](https://github.com/pints-team/pints), and 
+[Trase](https://github.com/trase-cpp/trase). He is a C++ developer at heart, but can 
+appreciate the [Zen of Python](https://www.python.org/dev/peps/pep-0020/) and is keen to 
+learn just about anything new.
 
 {{< /section-div >}}
 
