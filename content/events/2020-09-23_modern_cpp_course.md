@@ -1,15 +1,15 @@
 ---
 title: "Modern C++ Course"
-date: 2020-05-07T14:00:00+01:00
-draft: true
+date: 2020-09-23T14:00:00+01:00
+draft: false
 publishDate: 2020-03-03
 ---
 
-![modern C++ course](/images/modern-cpp-course.jpg "modern C++ course")
+![modern C++ course](/images/events/modern_cpp_course_1080.jpg "modern C++ course")
 
-07 May 2020 ~ Remote (MS Teams) ~ [Sign-up on Eventbrite](https://www.eventbrite.co.uk/e/oxford-rse-modern-c-course-tickets-103443341820)
+23 September 2020 ~ Remote (MS Teams or Zoom) ~ More info coming soon!
 
-The Oxford Research Software Engineering group is running a free course on modern C++ for graduate students and researchers:
+The Oxford Research Software Engineering group is running a free half day course on modern C++ for for graduate students and researchers at the University of Oxford.
 
 "**Getting the most out of the modern C++ language and standard libraries.**"
 
@@ -33,15 +33,11 @@ The course is aimed at graduate students and other researchers who have a workin
 
 ## Where
 
-Remote. We will use MS Teams for primary content delivery, and additional tools (provided) for interaction with TAs during the course.
+Remote. We will use MS Teams or Zoom.
 
 ## When
 
-7th May 2020, from 2pm to 5:30pm, with a break for coffee.
-
-## Requirements
-
-Participants must bring their own laptop that they have VirtualBox installed on. A VirtualBox disk image will be provided that will contain all necessary software for the course.
+Wednesday 23rd September 2020, from 14:00 to 17:00.
 
 ## Contact
 
