@@ -5,6 +5,8 @@ draft: false
 publishDate: 2020-06-17
 ---
 
+![code management course](/images/events/git_github_course_1080.jpg "code management course")
+
 The Oxford Research Software Engineering group is running a free ½ day course on code management for graduate students and other researchers at the University of Oxford.
 
 **What**: This course will give you a practical introduction to software engineering best practices in code management, software sustainability, reproducible software and open software publishing.

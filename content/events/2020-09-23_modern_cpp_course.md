@@ -5,7 +5,7 @@ draft: false
 publishDate: 2020-03-03
 ---
 
-![modern C++ course](/images/modern-cpp-course.jpg "modern C++ course")
+![modern C++ course](/images/events/modern_cpp_course_1080.jpg "modern C++ course")
 
 23 September 2020 ~ Remote (MS Teams or Zoom) ~ More info coming soon!
 
