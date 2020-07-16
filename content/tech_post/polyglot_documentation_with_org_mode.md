@@ -22,7 +22,7 @@ We found that it's possible to do just that, by writing the document in [org-mod
 
 Using the Emacs parser, it's possible to export org-mode files to multiple formats, including hugo ([which our website is built on](https://www.rse.ox.ac.uk/tech_post/building_site_with_hugo/)), LaTeX (suitable for generating printed handouts), [reveal.js](https://revealjs.com) slides for giving lectures, and more.
 
-Crucially, org-mode also has a "tagging" system where sections in the hierarchical outline can be tagged with arbitrary words. You can control which tags get included or excluded in the files exported from org-mode, and this is how we built our multi-lingual documentation.
+Crucially, org-mode also has a "tagging" system where sections in the hierarchical outline can be tagged with arbitrary words. You can control which tags get included or excluded in the files exported from org-mode, and this is how we can build our multi-lingual documentation.
 
 ## Babel
 
