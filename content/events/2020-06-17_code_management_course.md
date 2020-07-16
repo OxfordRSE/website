@@ -1,7 +1,7 @@
 ---
 title: "Code Management Course"
 date: 2020-07-01T14:00:00+01:00
-draft: false
+draft: true
 publishDate: 2020-06-17
 ---
 
