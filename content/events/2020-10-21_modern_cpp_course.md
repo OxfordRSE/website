@@ -37,7 +37,7 @@ Remote. We will use MS Teams or Zoom.
 
 ## When
 
-Wednesday 21th October 2020, from 14:00 to 17:00.
+Wednesday 21st October 2020, from 14:00 to 17:00.
 
 ## Contact
 
