@@ -1,7 +1,7 @@
 ---
 title: "Continuous Integration Course"
 date: 2020-07-22T14:00:00+01:00
-draft: true
+draft: false
 publishDate: 2020-06-17
 ---
 
