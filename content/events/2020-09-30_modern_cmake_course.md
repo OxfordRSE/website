@@ -1,6 +1,6 @@
 ---
 title: "Modern CMake Course"
-date: 2020-09-02T14:00:00+01:00
+date: 2020-09-30T14:00:00+01:00
 draft: false
 publishDate: 2020-06-17
 ---
@@ -11,6 +11,6 @@ The Oxford Research Software Engineering group is running a free half day course
 
 **Where**: Online
 
-**When**: Wednesday 2nd September
+**When**: Wednesday 30th September 2020
 
 More information coming soon!
