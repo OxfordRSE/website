@@ -395,7 +395,21 @@ blockquote {
   font-size: 17px;
 }
 
-.list-item .project-particulars {
+.list-item .img-project-list {
+  float: left;
+  padding-top: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  padding-left: 0px;
+  width: 50%;
+
+  display: inline;
+  margin: 0 auto;
+  height: auto;
+}
+
+
+.list-item .span-project-particulars {
   display: inline;
   padding: 0;
   font-family: 'Lato', sans-serif;
@@ -403,21 +417,17 @@ blockquote {
   font-size: 16px;
 }
 
-.list-item .project-particulars a {
+.list-item .span-project-particulars a {
   display: inline;
-  overflow: hidden;
   padding: 0;
-  margin: 0;
-  text-decoration: none;
-  font-size: 16px;
   font-family: 'Lato', sans-serif;
-  font-weight: normal;
+  font-size: 12px;
   color: #000;
-  border-bottom: 1px solid #ddd;
-  transition: border-color 300ms;
+  font-size: 16px;
 }
 
-.list-item .project-particulars p {
+.list-item p {
+  font-size: 14px;
   margin: 0;
   padding: 2px 0px;
 }
@@ -436,7 +446,7 @@ blockquote {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   color: #222;
-  border-bottom: 1px solid #ddd;
+  /* border-bottom: 1px solid #ddd; */
   transition: border-color 300ms;
 }
 

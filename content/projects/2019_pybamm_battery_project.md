@@ -1,7 +1,9 @@
 ---
 title: "PyBaMM Battery Modelling"
-client: "[Mathematical Institute](https://www.maths.ox.ac.uk/), University of Oxford"
+client: "[Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/)"
 description: "Enabling the comparison of battery models."
+image: "rse_skyline.svg"
+imagealt: ""
 date: 2019-01-01
 draft: false
 ---
@@ -16,4 +18,3 @@ We worked with the team to ensure modern software engineering practices, includi
 
 The aim is for PyBaMM to become a standard framework for the development of software implementations of new models of battery behaviour.
 The underlying research will provide theoretical models that explain battery behaviour, and PyBaMM will allow researchers to develop, assess and validate their models far more quickly than would otherwise occur, reducing the barrier to adoption and drastically reducing the time to impact.
-

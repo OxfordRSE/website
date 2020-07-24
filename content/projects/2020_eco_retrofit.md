@@ -1,7 +1,9 @@
 ---
 title: "ECO Retrofit"
-client: "[Environmental Change Institute](https://www.eci.ox.ac.uk/), University of Oxford"
+client: "[Environmental Change Institute, University of Oxford](https://www.eci.ox.ac.uk/)"
 description: "Designing and developing a mobile app for communicating retrofit project risks"
+image: "rse_skyline.svg"
+imagealt: ""
 date: 2019-01-25T16:38:09+01:00
 draft: false
 ---
