@@ -1,13 +1,13 @@
 ---
 title: "Modern C++ Course"
-date: 2020-09-23T14:00:00+01:00
+date: 2020-10-21T14:00:00+01:00
 draft: false
 publishDate: 2020-03-03
 ---
 
 ![modern C++ course](/images/events/modern_cpp_course_1080.jpg "modern C++ course")
 
-23 September 2020 ~ Remote (MS Teams or Zoom) ~ More info coming soon!
+21 October 2020 ~ Remote (MS Teams or Zoom) ~ More info coming soon!
 
 The Oxford Research Software Engineering group is running a free half day course on modern C++ for for graduate students and researchers at the University of Oxford.
 
@@ -37,7 +37,7 @@ Remote. We will use MS Teams or Zoom.
 
 ## When
 
-Wednesday 23rd September 2020, from 14:00 to 17:00.
+Wednesday 21st October 2020, from 14:00 to 17:00.
 
 ## Contact
 
