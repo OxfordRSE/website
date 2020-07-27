@@ -57,7 +57,7 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
     weight = -120
 
 [[menu.main]]
-    name = "OCRN"
+    name = "OxCRN"
     url = "/oxford-code-review-network/"
     weight = -115
 
