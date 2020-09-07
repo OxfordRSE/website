@@ -18,8 +18,8 @@ packaging!
 
 **Python packaging: efficiently organise and share your python projects**
 
-**When**: September 23rd 2020
-**Where**: Zoom link to be announced shortly
+- **When**: September 23rd 2020
+- **Where**: Zoom link to be announced shortly
 
 ## Description:
 
@@ -35,7 +35,7 @@ reuse it across them, using virtual environments.
 You will then learn the simple steps to make it possible for anyone to "pip
 install" your package, automatically installing the required dependencies.
 
-## Content:
+## Contents:
 
 1. Making a python package from a collection of python scripts
 2. Reusing package(s) across research projects
