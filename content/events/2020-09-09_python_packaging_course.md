@@ -13,12 +13,12 @@ Would you like to make it possible to "pip install" your code instead of
 emailing it to your colleagues? Ever heard of "python virtual environments" but never found the time
 to learn more?
 
-With one or more "yes", you should join the next OxRSE free course on python
+With one or more "yes", you should join the next OxRSE *free* course on python
 packaging!
 
 **Python packaging: efficiently organise and share your python projects**
 
-- **When**: September 23rd 2020
+- **When**: September 23rd 2020 - 14:00-17:00
 - **Where**: Zoom link to be announced shortly
 
 ## Description:
