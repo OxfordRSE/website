@@ -2,7 +2,7 @@
 title: "Python Packaging Course"
 date: 2020-23-09T14:00:00+01:00
 draft: false
-publishDate: 2020-06-17
+publishDate: 2020-09-23
 ---
 
 ![python packaging course](/images/events/python_packaging_course_1080.jpg "python packaging course")
