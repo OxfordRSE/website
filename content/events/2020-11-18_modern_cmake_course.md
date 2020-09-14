@@ -1,6 +1,6 @@
 ---
 title: "Modern CMake Course"
-date: 2020-09-30T14:00:00+01:00
+date: 2020-11-18T14:00:00+01:00
 draft: false
 publishDate: 2020-06-17
 ---
