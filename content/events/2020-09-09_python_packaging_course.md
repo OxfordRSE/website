@@ -7,19 +7,20 @@ publishDate: 2020-06-17
 
 ![python packaging course](/images/events/python_packaging_course_1080.jpg "python packaging course")
 
-Is your work a collection of loosely organised python scripts?
-Is copy/paste your tool of choice when reusing some of your previous work?
-Would you like to make it possible to "pip install" your code instead of
-emailing it to your colleagues? Ever heard of "python virtual environments" but never found the time
-to learn more?
+- *Is your work a collection of loosely organised python scripts?*
+- *Is copy/paste your tool of choice when reusing some of your previous work?*
+- *Would you like to make it possible to "pip install" your code instead of emailing it to your colleagues?*
+- *Ever heard of "python virtual environments" but never found the time to learn more?*
 
-With one or more "yes", you should join the next OxRSE *free* course on python
+With one or more "yes", you should join the next OxRSE **free** course on python
 packaging!
 
-**Python packaging: efficiently organise and share your python projects**
+**Efficiently organise and share your python projects with python packages**
 
 - **When**: September 23rd 2020 - 14:00-17:00
-- **Where**: Zoom link to be announced shortly
+- **Where**: Online
+
+[Register now on Eventbrite](https://oxrse-python-packaging-sept2020.eventbrite.co.uk)
 
 ## Description:
 
@@ -46,3 +47,10 @@ install" your package, automatically installing the required dependencies.
 ## Requirements:
 
 Only a basic knowledge of python is required.
+All experience levels welcome, from graduate student to senior professor.
+
+## How to register
+
+You can book a (free) ticket by visiting the following Eventbrite page:
+
+https://oxrse-python-packaging-sept2020.eventbrite.co.uk
