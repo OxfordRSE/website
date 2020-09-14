@@ -22,7 +22,7 @@ packaging!
 
 [Register now on Eventbrite](https://oxrse-python-packaging-sept2020.eventbrite.co.uk)
 
-## Description:
+## Description
 
 In early, exploratory phases of research, it is very convenient to just jot down
 a few lines of code to wrangle, analyse or visualise data.
@@ -36,7 +36,7 @@ reuse it across them, using virtual environments.
 You will then learn the simple steps to make it possible for anyone to "pip
 install" your package, automatically installing the required dependencies.
 
-## Contents:
+## Contents
 
 1. Making a python package from a collection of python scripts
 2. Reusing package(s) across research projects
@@ -44,7 +44,7 @@ install" your package, automatically installing the required dependencies.
 4. Sharing your package with the world
 5. Overview of advanced topics
   
-## Requirements:
+## Requirements
 
 Only a basic knowledge of python is required.
 All experience levels welcome, from graduate student to senior professor.
