@@ -23,10 +23,9 @@ sustainable software tools to support biomedical science.
 
 # OxRSE Involvment in SABS R³
 
-[Martin Robinson](https://www.rse.ox.ac.uk/people/) is a co-director of the SABS DTC, 
-and he, [Fergus Cooper](https://www.rse.ox.ac.uk/people/) and [Graham 
-Lee](https://www.rse.ox.ac.uk/people/), along with collaborators from the [Software 
-Sustainability Institute (SSI)](https://www.software.ac.uk/) have helped to develop and 
-deliver the Software Engineering and Scientific Computing teaching modules for SABS. We 
-also help to mentor and supervise the SABS students on their group-based, year-long 
-open-source software projects.
+Martin Robinson is a co-director of the SABS DTC, and three of us ([Martin, Fergus 
+Cooper and Graham Lee](https://www.rse.ox.ac.uk/people/)), along with collaborators from 
+the [Software Sustainability Institute (SSI)](https://www.software.ac.uk/) have helped 
+to develop and deliver the Software Engineering and Scientific Computing teaching 
+modules for SABS. We also help to mentor and supervise the SABS students on their 
+group-based, year-long open-source software projects.
