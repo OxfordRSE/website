@@ -11,6 +11,6 @@ The Oxford Research Software Engineering group is running a free half day course
 
 **Where**: Online
 
-**When**: Wednesday 30th September 2020
+**When**: Wednesday 18th November 2020
 
 More information coming soon!
