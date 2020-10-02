@@ -1,6 +1,6 @@
 ---
 title: "Oxford Visual Perception Screening (OxVPS)"
-client: "[Department of Experimental Psychology] (https://www.psy.ox.ac.uk/), University of Oxford"
+client: "[Department of Experimental Psychology](https://www.psy.ox.ac.uk/), University of Oxford"
 description: "A mobile app for screening for visual perception problems after stroke."
 date: 2019-03-01
 draft: false
