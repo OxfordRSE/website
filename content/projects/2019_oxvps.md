@@ -19,7 +19,12 @@ This app is based on a previously developed paper-based screening tool.
      
 ## OxRSE involvement
 
-{{< figure src="/images/projects/OxVPS_screenshots.jpg" caption="Screenshots of the mobile application developed by the OxRSE team for the OxVPS project.">}}
+{{< 
+figure src="/images/projects/OxVPS_screenshots.png"
+caption="Screenshots of the mobile application developed by the OxRSE team for the OxVPS project."
+alt="Screenshots of the mobile application developed by the OxRSE team for the OxVPS project."
+width="100%"
+>}}
 
 OxRSE was involved from the very early stages of the OxVPS project.
 Fergus Cooper, Mihaela Duta and Thibault Lestang provided both the software engineering expertise and development work to turn the paper-based assessment into a full-blown mobile app.
