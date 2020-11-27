@@ -24,6 +24,8 @@ Learn to easily organise and share your python projects with python packages. An
 
 Going from a set of scripts to python modules, what is a python package and how to make one, reusing a package across research projects, introduction to virtual environments, sharing a package on the Python Package Index (PyPI).
 
+A one-day class.
+
 ## Introduction to C++
 
 Introduction to C++: basic types, flow control, input/output pointers, references, dynamic memory allocation and arrays, functions, classes and object-oriented programming, templates and the Standard Template Library, Exceptions
@@ -32,7 +34,15 @@ This is a 4-5 day class
 
 ## Modern C++
 
-Overview of language and library evolution since 2011. Standard algorithms. Smart pointers. Lambda functions. The filesystem library. Refactoring legacy C++.
+Overview of language and library evolution since 2011. We will make use of the algorithms library, lambda functions, the filesystem library and much more, with features spanning modern C++ standards up to and including C++20.
+
+A one-day class.
+
+## Modern CMake
+
+CMake is now the de facto standard build system for C++ and other compiled languages, and with huge improvements over the last few years there has never been a better time to learn CMake and modernise your build process.
+This course is a gentle introduction to modern CMake.
+We will start off with configuring a simple project with a single source file, and move through to a more complex modular arrangement of source files that require multiple dependencies, with a clean, readable and intuitive set of build files.
 
 A one-day class.
 

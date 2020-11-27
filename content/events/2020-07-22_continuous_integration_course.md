@@ -1,7 +1,7 @@
 ---
 title: "Continuous Integration Course"
 date: 2020-07-22T14:00:00+01:00
-draft: false
+draft: true
 publishDate: 2020-06-17
 ---
 
@@ -27,3 +27,5 @@ The Oxford Research Software Engineering group is running a free half day course
 **How to sign up**: Please sign up [via EventBrite](https://www.eventbrite.co.uk/e/oxford-rse-continuous-integration-course-tickets-113795326886).
 
 **Prerequisites**: You should have a [GitHub](https://github.com/) account set up before the course starts.
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).

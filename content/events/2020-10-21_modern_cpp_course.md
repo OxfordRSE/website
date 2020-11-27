@@ -1,7 +1,7 @@
 ---
 title: "Modern C++ Course"
 date: 2020-10-21T14:00:00+01:00
-draft: false
+draft: true
 publishDate: 2020-03-03
 ---
 
@@ -46,3 +46,5 @@ This course has previously been delivered on 7th May 2020.
 ## Contact
 
 Please email rse@cs.ox.ac.uk for more information.
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).
