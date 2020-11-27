@@ -1,7 +1,7 @@
 ---
 title: "Organise and share your python projects with python packages"
 date: 2020-09-23T14:00:00+01:00
-draft: false
+draft: true
 publishDate: 2020-09-14
 ---
 
