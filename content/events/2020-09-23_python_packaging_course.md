@@ -54,3 +54,5 @@ All experience levels welcome, from graduate student to senior professor.
 You can book a (free) ticket by visiting the following Eventbrite page:
 
 https://oxrse-python-packaging-sept2020.eventbrite.co.uk
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).

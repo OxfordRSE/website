@@ -57,3 +57,5 @@ Wednesday 18th November 2020, from 14:00 to 17:00.
 ## Contact
 
 Please email rse@cs.ox.ac.uk for more information.
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).

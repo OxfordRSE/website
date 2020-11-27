@@ -46,3 +46,5 @@ This course has previously been delivered on 7th May 2020.
 ## Contact
 
 Please email rse@cs.ox.ac.uk for more information.
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).

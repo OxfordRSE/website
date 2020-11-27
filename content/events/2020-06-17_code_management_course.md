@@ -33,3 +33,5 @@ Topics include:
 
 If you attended this course, we would love to have your feedback on it.
 Please fill in [this short form](https://forms.gle/UXXhPVL2PhGU9hRm6).
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).

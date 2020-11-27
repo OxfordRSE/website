@@ -46,3 +46,5 @@ Participants must bring their own laptop that they have VirtualBox installed on.
 ## Contact
 
 Please email rse@cs.ox.ac.uk for more information.
+
+Photo by [Anas Alshanti](https://unsplash.com/@otenteko) on [Unsplash](https://unsplash.com/).
