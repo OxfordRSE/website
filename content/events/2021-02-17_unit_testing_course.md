@@ -5,7 +5,7 @@ draft: false
 publishDate: 2020-06-17
 ---
 
-![unit testing course](/images/events/git_github_course_1080.jpg "unit testing course")
+![unit testing course](/images/events/unit_testing_course_1080.jpg "unit testing course")
 
 17 February 2021 ~ Remote (Zoom) ~ Sign-up on Eventbrite coming soon
 
@@ -16,11 +16,13 @@ The Oxford Research Software Engineering group is running a free half day course
 ## Overview
 
 Does the code we develop work the way we think it does?
-Can we verify the correctness of our code?
 To what extent do we have confidence in the accuracy of results that we publish?
+When you or your group extends your code, does all the existing functionality carry on working as before?
+Can we automate testing so we're not reliant on remembering to run tests?
 
 This course will provide a hands-on introduction to an important aspect of verifying software correctness: unit testing.
 We will use a small Python project to introduce concepts and to get some hands-on experience writing unit tests, and we will use GitHub to automate the process of running them.
+By the end of the course, we hope you will be convinced that writing tests will save you time in the long run.
 
 Participants should have a [GitHub](http://github.com/) account and have a basic familiarity with Python or a similar programming language. 
 
@@ -29,7 +31,7 @@ This course will cover:
 - using a unit testing framework
 - writing unit tests
 - testing for errors
-- parameterising unit tests
+- parameterising tests to run with multiple inputs
 - automating the running of unit tests 
 
 ## Audience
