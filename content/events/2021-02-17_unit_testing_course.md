@@ -7,7 +7,7 @@ publishDate: 2020-06-17
 
 ![unit testing course](/images/events/unit_testing_course_1080.jpg "unit testing course")
 
-17 February 2021 ~ Remote (Zoom) ~ Sign-up on Eventbrite coming soon
+17 February 2021 ~ Remote (Zoom) ~ [Sign-up on Eventbrite](https://www.eventbrite.co.uk/e/141216078091/)
 
 
 The Oxford Research Software Engineering group is running a free half day course on unit testing for graduate students and researchers at the University of Oxford.
