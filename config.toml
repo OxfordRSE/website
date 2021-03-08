@@ -66,11 +66,6 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
     url = "/contact/"
     weight = -110
 
-[[menu.main]]
-    name = "How to work with us"
-    url = "/how-to-work-with-us/"
-    weight = -105
-
 [params]
     description = ""
 

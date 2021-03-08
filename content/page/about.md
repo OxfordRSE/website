@@ -3,6 +3,22 @@ title: "About"
 date: "2018-02-09"
 ---
 
+The Oxford Research Software Engineering group (OxRSE) collaborates with researchers at 
+the University of Oxford to provide high quality
+research software. OxRSE makes available software experts that can work with you on any software-related aspect of your research, including
+- Software development
+- Setting up development infrastructure (version control, testing, continuous integration)
+- Assessment and consultancy on research software best practices
+- Code reviews
+- Teaching tailored to your research needs
+OxRSE can work with you over different timescale, ranging from a single day to several 
+years.
+
+Outside of our free activities such as our [training courses]({{< ref "training.md" >}}) and [software surgeries]({{< ref "software-surgeries.md" >}}), OxRSE is a paid service.
+If you're interested in getting expert support for your research software, you can reach us by submitting [this short form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3).
+We will get back to you to further discuss your project and how OxRSE can best support your research.
+Particularly, we will advise you on the best route to fund Research Software Engineering support.
+
 ## Background
 
 Over the last three decades research in academia and industry has become
@@ -16,37 +32,23 @@ now be seen as perhaps the most important research tool across all disciplines,
 and the design and development of research software is critical to the success
 of the UK research base.
 
-Over the last decade EPSRC has spearheaded a programme to support the
-development of sustainable, high quality software through establishment of the
-Software Sustainability Institute in Edinburgh, the Software for the Future
-funding Programme, and the establishment of the Research Software Engineering
-Fellowship Programme. In response, most of the leading research-intensive
-Universities (although not yet Oxford) have established research software
-engineering groups to support the development of academic software within their
-institutions. The largest such group is the [one at
-UCL](http://www.ucl.ac.uk/research-it-services/research-software-development)
-which has expanded to ten permanent staff, including two who were recruited
-from Oxford.
+# Costed Research Software Engineering time
 
-## Original RSE survey project
+In most cases, RSE time must be costed into your research grant; the time of one Full 
+Time Equivalent (FTE) RSE being roughly equal to the time of a grade 7.5 postdoctoral 
+researcher. If you already have available funds, OxRSE time can also be costed using a 
+service research facility with a standard daily rate. As of March 2021, this rate is 
+£310.
 
-We explored the need for research software engineering (RSE) support in
-both the academic research and the knowledge transfer spaces within Oxford. Our
-aims were to:
+Should you be interested in collaborating with OxRSE, we encourage you to get in touch with us in the early stages of the redaction of your project
+proposal. Research Software Engineers from OxRSE will be able to discuss 
+software-related aspects of your project and provide guidance regarding the 
+corresponding sections of your funding application.
 
-1. Identify researchers within the University with a need for RSE support.
-1. Assess the extent to which the lack of RSE support is a barrier to both
-   research progress and to knowledge transfer.
-1. To understand the skills required in a RSE team in both the research and
-   knowledge transfer spaces, and to use this understanding to model the
-   potential demand for RSE services in the future.
-1. To identify and catalogue the existing RSE skills already available within
-   the University.
-1. To identify, learn lessons from, and support small pilot projects to act as
-   case studies and as a direct evidence base in developing future business and
-   funding models.
-1. To explore possible business and funding models (based on current practice in other universities) with the goal of filling the software engineering support gap in Oxford.
-1. To develop a business case to support the development of an RSE group
-   within Oxford.
+# Outside of Oxford University
 
-This initial project was successful and has led to the creation of this Research Software Engineering group.
+External companies and other organisations can also take advantage of OxRSE's expertise, 
+to integrate research software into your development or to upskill your team on software 
+engineering and data science practices. [Complete the 
+form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3) to get in touch and discuss your 
+requirements.
