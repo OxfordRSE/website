@@ -43,7 +43,9 @@ alt="Software Sustainability Institute logo"
 >}}
 
 
-We are currently funded by the EPSRC impact acceleration account.
+OxRSE is funded via collaborations on research projects with academics all across the 
+university. We are also directly funded by grants in the EPSRC impact acceleration 
+account
 
 {{< figure
 src="/images/epsrc_logo.svg"
@@ -51,3 +53,13 @@ link="https://epsrc.ukri.org/"
 width="40%"
 alt="EPSRC logo"
 >}}
+
+and the Institutional Strategic Support Fund (ISSF).
+
+{{< figure
+src="/images/Wellcome_Trust_logo.svg"
+link="https://wellcome.org/what-we-do/our-work/institutional-strategic-support-fund"
+width="20%"
+alt="Wellcome logo"
+>}}
+
