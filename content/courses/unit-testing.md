@@ -1,7 +1,8 @@
 ---
 title: "Unit Testing"
 draft: false
-summary: "How to turn a couple of python scripts into a full blown Python package"
+summary: "A hands-on introduction using Python to an important aspect of verifying 
+software correctness: unit testing"
 duration: "0.5 days"
 prerequisites: "a GitHub account and a basic familiarity with Python or a similar 
 programming language"
