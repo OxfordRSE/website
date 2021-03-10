@@ -26,6 +26,8 @@
       {{ partial "list-of-projects.html" . }}
     {{ else if eq .Title "Events" }}
       {{ partial "list-of-events.html" . }}
+    {{ else if eq .Title "Courses" }}
+      {{ partial "list-of-courses.html" . }}
     {{ end }}
 
   </article>

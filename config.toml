@@ -32,8 +32,8 @@ disableKinds = ["section", "taxonomyTerm", "RSS"]
     weight = -148
 
 [[menu.main]]
-    name = "Training"
-    url = "/training/"
+    name = "Courses"
+    url = "/courses/"
     weight = -146
 
 [[menu.main]]
