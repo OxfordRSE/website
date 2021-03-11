@@ -14,7 +14,8 @@ research software. OxRSE makes available software experts that can work with you
 OxRSE can work with you over different timescale, ranging from a single day to several 
 years.
 
-Outside of our free activities such as our [training courses]({{< ref "training.md" >}}) and [software surgeries]({{< ref "software-surgeries.md" >}}), OxRSE is a paid service.
+Outside of our free activities such as our [training courses]({{< ref "courses.md" >}}) 
+and [software surgeries]({{< ref "software-surgeries.md" >}}), OxRSE is a paid service.
 If you're interested in getting expert support for your research software, you can reach us by submitting [this short form](https://goo.gl/forms/Ten4EsxZSOUIwJLD3).
 We will get back to you to further discuss your project and how OxRSE can best support your research.
 Particularly, we will advise you on the best route to fund Research Software Engineering support.

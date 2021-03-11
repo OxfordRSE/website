@@ -1,0 +1,8 @@
+<div class="list">
+    <h1 class="article-title">{{ .Title }}</h1>
+    {{ range where .Site.RegularPages "Section" "courses" }}
+
+    {{ partial "course-item.html" . }}
+    {{ end }}
+
+</div>

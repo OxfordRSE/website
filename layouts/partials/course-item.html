@@ -1,0 +1,8 @@
+    <nav class="list-item">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <span class="course-particulars">
+        <p><b>Summary</b>: {{ .Page.Params.summary | markdownify }}</p>
+        <p><b>Duration</b>: {{ .Page.Params.duration | markdownify }}</p>
+        <p><b>Prerequisites</b>: {{ .Page.Params.prerequisites | markdownify }}</p>
+      </span>
+    </nav>
