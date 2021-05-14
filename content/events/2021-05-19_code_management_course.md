@@ -7,7 +7,7 @@ publishDate: 2021-04-30T13:15:38+01:00
 
 ![code management course](/images/events/git_github_course_1080.jpg "code management course")
 
-19 May 2021 ~ Remote (Teams) ~ [Sign-up on Eventbritehttps://www.eventbrite.co.uk/e/code-management-with-git-and-github-tickets-154797981931)
+19 May 2021 ~ Remote (Teams) ~ [Sign-up on Eventbrite](https://www.eventbrite.co.uk/e/code-management-with-git-and-github-tickets-154797981931)
 
 
 The Oxford Research Software Engineering group is running a free half day course on code management for graduate students and researchers at the University of Oxford.
