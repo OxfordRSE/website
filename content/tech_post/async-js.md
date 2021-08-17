@@ -16,7 +16,7 @@ If you have some long-running task, you can have it do its work in the backgroun
 
 ## Callback Functions
 
-The first solution provided to scheduling work on the event loop was the callback. You would invoke your long-running task, giving it a function to call when it was finished. The function got access to the result of the task, so you could deal with errors or process the results. It looks like this:
+Historically, the first solution provided to scheduling work on the event loop was the callback. You would invoke your long-running task, giving it a function to call when it was finished. The function got access to the result of the task, so you could deal with errors or process the results. Using as an example a database query as our long-running task, a callback would look like this:
 
 ```javascript
 
