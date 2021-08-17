@@ -4,7 +4,7 @@ date: 2021-08-17T11:25:53+01:00
 draft: false
 ---
 
-We use Javascript and its type-safe sibling, TypeScript, on a lot of projects. For example, in our work on [Global.health: a Data Science Initiative](https://global.health), we use TypeScript both for the web application and for the API backing it, via the node.js engine. TypeScript gets rewritten into JavaScript before it is run, so I'll just use JavaScript from now on without worrying about how we got that JavaScript.
+We use JavaScript and its type-safe sibling, TypeScript, on a lot of projects. For example, in our work on [Global.health: a Data Science Initiative](https://global.health), we use TypeScript both for the web application and for the API backing it, via the node.js engine. TypeScript gets rewritten into JavaScript before it is run, so to keep things as simple as possible I'll just use JavaScript from now on.
 
 ## JavaScript threads: There can be only one
 
