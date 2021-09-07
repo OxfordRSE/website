@@ -138,7 +138,7 @@ in general, this is a real problem:
     is packaged. This is especially a problem on GNU/Linux, since
     different distributions package different versions of software. If
     the extension module for our package was linked against version
-    `x` of a dependency, it's not garanteed to work with version
+    `x` of a dependency, it's not guaranteed to work with version
     `y`. Frustrating.
 
 On top of this, remember that when installing a package from a
@@ -378,7 +378,7 @@ A new directory `wheelhouse` was created with our manylinux wheel in it.
 
 There is one <del>detail</del> aspect I glossed over.
 
-Our C++ extension module `ddot` has dynamics dependencies to
+Our C++ extension module `ddot` has dynamic dependencies to
 various shared libraries. We can visualise them using the `ldd`
 command (**l** ist **d** ynamic **d** ependencies?). Let's see what we
 get if we use `ldd` on the extension contained inside our original
@@ -410,7 +410,7 @@ The solution to this is rather straightfoward: let's add
 `libopenblas` to the wheel (remember, a wheel is nothing else than
 an archive). This is, however, not enough. We also need to make
 sure that, at runtime, our friend's system (more precisely, the
-dynamics linker) knows where to look to find this shared
+dynamic linker) knows where to look to find this shared
 library. There is only a restricted set of locations the dynamic
 linker looks into, and the installed wheel isn't going to be one of
 them. 
