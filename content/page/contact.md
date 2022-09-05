@@ -12,10 +12,8 @@ We also have a mailing list for announcements. To subscribe, send a blank email 
 
 ## Postal address
 
-Department of Computer Science, University of Oxford  
-Wolfson Building  
-Parks Road  
-OXFORD OX1 3QD  
+Doctoral Training Centre
+University of Oxford  
+1-4 Keble Road  
+OXFORD OX1 3NP  
 United Kingdom
-
-![Wolfson building](/images/wolfsonbuilding.jpg "Wolfson building")
