@@ -97,6 +97,10 @@ to the numerical simulation of extreme events in turbulent flows.
 Thibault joined OxRSE out of his enthusiasm for both research and software engineering, as well as computing.
 His main interests are rare-event sampling algorithms, turbulence, the Lattice Boltzmann Method, High Performance Computing.
 
+{{< /section-div >}}
+
+{{< section-div >}}
+
 ## [Abhishek Dasgupta](https://abhidg.name)
 
 ![Personal photo - Abhishek Dasgupta](photo_abhishek_dasgupta.jpg "Abhishek Dasgupta")
@@ -109,5 +113,17 @@ such as computational social science and political science.
 As a Research Software Engineer, he is interested in advancing software
 engineering best practices, such as unit testing and reproducibility in
 research.
+
+{{< /section-div >}}
+
+{{< section-div >}}
+
+## [John Brittain](http://www.jsbrittain.com)
+
+![Personal photo - John Brittain](photo_john_brittain.jpg "John Brittain")
+
+John obtained his Phd in [Electrical Engineering](https://www.york.ac.uk/physics-engineering-technology/) from the University of York, where he developed novel signal processsing techniques to understand the neural mechanisms underpinning control of human locomotion. From there he continued his exploration of biological systems before being appointed Associate Professor of Psychology at the University of Birmingham with a focus on novel forms of analytic techniques and computational models applied in the field of Human Neuroscience.
+
+John joined the Research Software Engineering group in 2023 with a strong interest in promoting best practices in software engineering within the research space, teaching software engineering skills to others, and a desire to contribute his skillset to a range of cutting edge research projects.
 
 {{< /section-div >}}
