@@ -127,3 +127,18 @@ John obtained his Phd in [Electrical Engineering](https://www.york.ac.uk/physics
 John joined the Research Software Engineering group in 2023 with a strong interest in promoting best practices in software engineering within the research space, teaching software engineering skills to others, and a desire to contribute his skillset to a range of cutting edge research projects.
 
 {{< /section-div >}}
+
+{{< section-div >}}
+
+## [Pip Liggins](http://www.pipliggins.co.uk)
+
+![Personal photo - Pip Liggins](photo_pip_liggins.jpg "Pip Liggins")
+
+Pip holds a PhD in [Earth Sciences](https://www.esc.cam.ac.uk/research) from the
+University of Cambridge, where she developed computational models of volcanic 
+gas chemistry and the temporal evolution of atmospheres. These were used to study how the chemistry of 
+exoplanet interiors may come to be inferred from their atmospheres.
+
+Pip joined OxRSE in 2023 out of an enthusiasm for developing software solutions for research. As a Research Software Engineer, she enjoys working closely with academics to design innovative solutions using the latest and greatest languages, tools and libraries.
+
+{{< /section-div >}}
