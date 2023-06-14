@@ -22,15 +22,16 @@ outside of software development, such as project management and consultancy.
 
 We are looking for candidates with significant experience in software
 development within a research environment (a doctoral degree is preferred, but
-equivilent experience will also be considered) and who have have a demonstrated
+equivalent experience will also be considered) and who have have a demonstrated
 ability to design, implement and deploy a complex software engineering project,
 individually or as part of a team. You must be able to collaborate effectively
 with other researchers and have a deep understanding of software engineering
-best practices (e.g. design, testing, documentation, reproducability) and how to
-apply these effectivly and champion their use within a research environment.
+best practices (design, testing, documentation, reproducibility etc.) and how to
+apply these effectively and to champion their use within a research environment.
 
-For more details please see the [Job Description](0018702339.pdf). Applications can be made be emailing [Martin Robinson](mailto:martin.robinson@dtc.ox.ac.uk) with a CV and a supporting statement that
-explains how you meet each of the selection criteria for the post using examples
-of your skills and experience.
+For more details please see the [Job Description](0018702339.pdf). Applications
+can be made be emailing [Martin Robinson](mailto:martin.robinson@dtc.ox.ac.uk)
+with a CV and a supporting statement that explains how you meet each of the
+selection criteria for the post using examples of your skills and experience.
 
 
