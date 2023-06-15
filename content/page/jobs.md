@@ -24,7 +24,7 @@ We are looking for candidates with significant experience in software
 development within a research environment (a doctoral degree is preferred, but
 equivalent experience will also be considered) and who have have a demonstrated
 ability to design, implement and deploy a complex software engineering project,
-individually or as part of a team. You must be able to collaborate effectively
+both individually and as part of a team. You must be able to collaborate effectively
 with other researchers and have a deep understanding of software engineering
 best practices (design, testing, documentation, reproducibility etc.) and how to
 apply these effectively and to champion their use within a research environment.
