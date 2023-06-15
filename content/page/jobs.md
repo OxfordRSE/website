@@ -30,7 +30,7 @@ best practices (design, testing, documentation, reproducibility etc.) and how to
 apply these effectively and to champion their use within a research environment.
 
 For more details please see the [Job Description](0018702339.pdf). Applications
-can be made be emailing [Martin Robinson](mailto:martin.robinson@dtc.ox.ac.uk)
+can be made by emailing [Martin Robinson](mailto:martin.robinson@dtc.ox.ac.uk)
 with a CV and a supporting statement that explains how you meet each of the
 selection criteria for the post using examples of your skills and experience.
 
