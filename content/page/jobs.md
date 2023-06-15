@@ -13,7 +13,6 @@ a world-leading university.
 
 These posts are offered as open-ended positions. They are full time roles, but
 flexible options will be considered (e.g. part-time, job share). We are also
-open to remote work options within the UK.
 
 You will work on a variety of world-class research projects across the University of
 Oxford, deliver workshops and training in software development best practices,
