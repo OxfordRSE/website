@@ -11,7 +11,7 @@ impactful projects. We offer RSEs the potential to advance their career and to
 make a significant contribution to the development of good software practices at
 a world-leading university. 
 
-These posts are offered as an open-ended positions. They are full time roles, but
+These posts are offered as open-ended positions. They are full time roles, but
 flexible options will be considered (e.g. part-time, job share). We are also
 open to remote work options within the UK.
 
